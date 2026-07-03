@@ -1,7 +1,7 @@
 {
   "title": "Ti's Widgets",
   "description": "Made by Love",
-  "icon": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/icon.png",
+  "icon": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/icon.png",
   "widgets": [
     {
       "id": "ti.bemarkt.vod.maccms",
@@ -10,15 +10,133 @@
       "requiredVersion": "0.0.1",
       "version": "1.1.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/vod.js"
-    },{
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/vod.js"
+    },
+    {
       "id": "ti.bemarkt.podcast",
       "title": "Podcast",
       "description": "获取 RSS 播客数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/podcast.js"
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/podcast.js"
+    },
+    {
+      "id": "xiaen8.widgets.vod1080",
+      "title": "1080资源",
+      "description": "获取 1080 影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.2.1",
+      "author": "yuwang",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/1080资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vod155",
+      "title": "155资源",
+      "description": "获取 155 影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/155资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.voduku",
+      "title": "U酷资源",
+      "description": "获取 U酷 影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/U酷资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodikun",
+      "title": "ikun资源",
+      "description": "获取 ikun 影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/ikun资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.wujinapi",
+      "title": "无尽api",
+      "description": "获取无尽 API 资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/wujinapi无尽.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodlebo",
+      "title": "乐播资源",
+      "description": "获取乐播影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/乐播资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodwolongdb",
+      "title": "卧龙点播",
+      "description": "获取卧龙点播资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/卧龙点播.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodwolong",
+      "title": "卧龙资源",
+      "description": "获取卧龙影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/卧龙资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodxiaoji",
+      "title": "小鸡资源",
+      "description": "获取小鸡影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/小鸡资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodysgc",
+      "title": "影视工厂",
+      "description": "获取影视工厂资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/影视工厂.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodxinlangdb",
+      "title": "新浪点播",
+      "description": "获取新浪点播资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/新浪点播.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodxinlanga",
+      "title": "新浪资源阿",
+      "description": "获取新浪资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/新浪资源阿.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodwujin",
+      "title": "无尽资源",
+      "description": "获取无尽影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/无尽资源.js"
     }
   ]
 }
