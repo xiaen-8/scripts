@@ -1,7 +1,8 @@
 {
   "title": "夏恩专用",
   "description": "Made by Love",
-  "icon": "https://telegra.ph/file/0c92da3dbca3e4bd9df41.png": [
+  "icon": "https://telegra.ph/file/0c92da3dbca3e4bd9df41.png",
+  "widgets": [
     {
       "id": "ti.bemarkt.vod.maccms",
       "title": "VOD",
