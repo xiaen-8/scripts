@@ -1,7 +1,7 @@
 {
   "title": "Ti's Widgets",
   "description": "Made by Love",
-  "icon": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/icon.png",
+  "icon": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/icon.png",
   "widgets": [
     {
       "id": "ti.bemarkt.vod.maccms",
@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.1.0",
       "author": "Ti",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/vod.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/vod.js"
     },
     {
       "id": "ti.bemarkt.podcast",
@@ -19,7 +19,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/podcast.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/podcast.js"
     },
     {
       "id": "xiaen8.widgets.vod1080",
@@ -28,7 +28,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.2.1",
       "author": "yuwang",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/1080资源.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/1080资源.js"
     },
     {
       "id": "xiaen8.widgets.vod155",
@@ -37,7 +37,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/155资源.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/155资源.js"
     },
     {
       "id": "xiaen8.widgets.voduku",
@@ -46,7 +46,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/U酷资源.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/U酷资源.js"
     },
     {
       "id": "xiaen8.widgets.vodikun",
@@ -55,7 +55,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/ikun资源.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/ikun资源.js"
     },
     {
       "id": "xiaen8.widgets.wujinapi",
@@ -64,7 +64,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/wujinapi无尽.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/wujinapi无尽.js"
     },
     {
       "id": "xiaen8.widgets.vodlebo",
@@ -73,7 +73,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/乐播资源.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/乐播资源.js"
     },
     {
       "id": "xiaen8.widgets.vodwolongdb",
@@ -82,7 +82,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/卧龙点播.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/卧龙点播.js"
     },
     {
       "id": "xiaen8.widgets.vodwolong",
@@ -91,7 +91,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/卧龙资源.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/卧龙资源.js"
     },
     {
       "id": "xiaen8.widgets.vodxiaoji",
@@ -100,7 +100,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/小鸡资源.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/小鸡资源.js"
     },
     {
       "id": "xiaen8.widgets.vodysgc",
@@ -109,7 +109,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/影视工厂.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/影视工厂.js"
     },
     {
       "id": "xiaen8.widgets.vodxinlangdb",
@@ -118,7 +118,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/新浪点播.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/新浪点播.js"
     },
     {
       "id": "xiaen8.widgets.vodxinlanga",
@@ -127,7 +127,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/新浪资源阿.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/新浪资源阿.js"
     },
     {
       "id": "xiaen8.widgets.vodwujin",
@@ -136,7 +136,250 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://fastly.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward/widgets/无尽资源.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/无尽资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodwangwangdj",
+      "title": "旺旺短剧",
+      "description": "获取旺旺短剧资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/旺旺短剧.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodwangwang",
+      "title": "旺旺资源",
+      "description": "获取旺旺影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/旺旺资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodbaofeng",
+      "title": "暴风资源",
+      "description": "获取暴风影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/暴风资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodzuidadb",
+      "title": "最大点播",
+      "description": "获取最大点播资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/最大点播.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodzuida",
+      "title": "最大资源",
+      "description": "获取最大影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/最大资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodxingba",
+      "title": "杏吧资源",
+      "description": "获取杏吧影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/杏吧资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodjisu",
+      "title": "极速资源",
+      "description": "获取极速影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/极速资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodyutu",
+      "title": "玉兔资源",
+      "description": "获取玉兔影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/玉兔资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodfanhao",
+      "title": "番号资源",
+      "description": "获取番号影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/番号资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodbaiwan",
+      "title": "百万资源",
+      "description": "获取百万影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/百万资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodshenmayun",
+      "title": "神马云",
+      "description": "获取神马云影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/神马云.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodjingpin",
+      "title": "精品资源",
+      "description": "获取精品影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/精品资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodhongniu",
+      "title": "红牛资源",
+      "description": "获取红牛影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/红牛资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodxibaocj",
+      "title": "细胞采集黄色",
+      "description": "获取细胞采集资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/细胞采集黄色.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodlaolubi",
+      "title": "老色逼资源",
+      "description": "获取老色逼影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/老色逼资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodmaotai",
+      "title": "茅台资源",
+      "description": "获取茅台影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/茅台资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodhuya",
+      "title": "虎牙资源",
+      "description": "获取虎牙影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/虎牙资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.voddouban",
+      "title": "豆瓣资源",
+      "description": "获取豆瓣影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/豆瓣资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodlanjiao",
+      "title": "辣椒资源",
+      "description": "获取辣椒影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/辣椒资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodsubo",
+      "title": "速博资源",
+      "description": "获取速博影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/速博资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodliangzi",
+      "title": "量子资源",
+      "description": "获取量子影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/量子资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodjinyingdb",
+      "title": "金鹰点播",
+      "description": "获取金鹰点播资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/金鹰点播.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodjinying",
+      "title": "金鹰资源",
+      "description": "获取金鹰影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/金鹰资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodjinyingcj",
+      "title": "金鹰资源采集网",
+      "description": "获取金鹰采集资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/金鹰资源采集网.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodpiaoling",
+      "title": "飘零资源",
+      "description": "获取飘零影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/飘零资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.voddashu",
+      "title": "鲨鱼资源",
+      "description": "获取鲨鱼影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/鲨鱼资源.js"
+    },
+    {
+      "id": "xiaen8.widgets.vodhuangse",
+      "title": "黄色资源啊啊",
+      "description": "获取特殊影视资源",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "xiaen-8",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/黄色资源啊啊.js"
     }
   ]
 }
