@@ -1,7 +1,7 @@
 {
-  "title": "夏恩专用",
+  "title": "夏恩",
   "description": "Made by Love",
-  "icon": "https://telegra.ph/file/0c92da3dbca3e4bd9df41.png",
+  "icon": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/icon.png",
   "widgets": [
     {
       "id": "ti.bemarkt.vod.maccms",
