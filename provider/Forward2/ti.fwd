@@ -12,16 +12,16 @@
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/10wallpaper.js"
     },
-    {
-      "id": "ti.xiaen8.ppnix-1",
-      "title": "PPnix-1",
-      "description": "获取 PPnix-1 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "url": "https://github.com/xiaen-8/scripts/blob/master/provider/Forward2/Widgets/PPnix-1.js"
-    },
-    {
+   {
+     "id": "ti.xiaen8.ppnix-1",
+     "title": "PPnix-1",
+     "description": "获取 PPnix-1 数据",
+     "requiredVersion": "0.0.1",
+     "version": "1.0.0",
+     "author": "Ti",
+     "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/PPnix-1.js"
+   },
+  {
       "id": "ti.xiaen8.bilibili",
       "title": "bilibili",
       "description": "获取 bilibili 数据",
