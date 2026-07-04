@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/10wallpaper.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/10wallpaper.js"
     },
     {
       "id": "ti.bemarkt.PPnix-1",
@@ -19,7 +19,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/PPnix-1.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/PPnix-1.js"
     },
     {
       "id": "ti.bemarkt.girigirilove-2",
@@ -28,7 +28,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/girigirilove%202.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/girigirilove%202.js"
     },
     {
       "id": "ti.bemarkt.girigirilove-3",
@@ -37,7 +37,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/girigirilove%203.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/girigirilove%203.js"
     },
     {
       "id": "ti.bemarkt.girigirilove",
@@ -46,7 +46,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/girigirilove.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/girigirilove.js"
     },
     {
       "id": "ti.bemarkt.jianpian-app",
@@ -55,7 +55,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/jianpian:app.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/jianpian:app.js"
     },
     {
       "id": "ti.bemarkt.wallpaper",
@@ -64,7 +64,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/wallpaper.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/wallpaper.js"
     },
     {
       "id": "ti.bemarkt.renrenmeiju",
@@ -73,7 +73,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E4%BA%BA%E4%BA%BA%E7%BE%8E%E5%89%A7.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/%E4%BA%BA%E4%BA%BA%E7%BE%8E%E5%89%A7.js"
     },
     {
       "id": "ti.bemarkt.didiaoyingshi",
@@ -82,7 +82,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E4%BD%8E%E8%B0%83%E5%BD%B1%E8%A7%86.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/%E4%1E%8E%E8%B0%83%E5%BD%B1%E8%A7%86.js"
     },
     {
       "id": "ti.bemarkt.bilibili",
@@ -91,7 +91,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E5%93%94%E5%93%A9%E5%93%A9%E5%93%A9.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/%E5%93%94%E5%93%A9%E5%93%A9%E5%93%A9.js"
     },
     {
       "id": "ti.bemarkt.ouleyongshi-3",
@@ -100,7 +100,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E6%AC%A7%E4%B9%90:%E5%BD%B1%E8%A7%86%203.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/%E6%AC%A7%E4%B9%90:%E5%BD%B1%E8%A7%86%203.js"
     },
     {
       "id": "ti.bemarkt.ouleyongshi-4",
@@ -109,7 +109,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E6%AC%A7%E4%B9%90:%E5%BD%B1%E8%A7%86%204.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/%E6%AC%A7%E4%B9%90:%E5%BD%B1%E8%A7%86%204.js"
     },
     {
       "id": "ti.bemarkt.zhibo",
@@ -118,7 +118,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E7%9B%B4%E6%92%AD(%E7%94%B5%E8%A7%86%2B%E7%BD%91%E7%BB%9C).js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/%E7%9B%B4%E6%92%AD(%E7%94%B5%E8%A7%86%2B%E7%BD%91%E7%BB%9C).js"
     },
     {
       "id": "ti.bemarkt.juheshishibangdan",
@@ -127,7 +127,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E5%B7%A1%E5%90%88%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/%E5%B7%A1%E5%90%88%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95.js"
     },
     {
       "id": "ti.bemarkt.jianpianyingyuan",
@@ -136,7 +136,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E8%8D%90%E7%89%87:%E5%BD%B1%E9%99%A2.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/%E8%8D%90%E7%89%87:%E5%BD%B1%E9%99%A2.js"
     },
     {
       "id": "ti.bemarkt.jinpaiyingyuan",
@@ -145,7 +145,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
+      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward2/widgets/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
     }
   ]
 }
