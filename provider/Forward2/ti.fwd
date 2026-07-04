@@ -1,6 +1,6 @@
 {
   "title": "夏恩主用",
-  "description": "已通过嵌入代码修复路径无法访问问题",
+  "description": "Made by Love",
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
     {
@@ -10,83 +10,158 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "script": "
-        var DEFAULT_HOST = 'https://api.bilibili.com';
-        var UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36';
-        var DEFAULT_COOKIE = '';
-        function buildHeaders(cookie) {
-            var headers = { 'User-Agent': UA, 'Referer': 'https://www.bilibili.com', 'Accept': 'application/json, text/plain, */*' };
-            if (cookie) headers['Cookie'] = cookie;
-            return headers;
-        }
-        async function httpGet(ctx, url, cookie = '') {
-            try {
-                var httpClient = ctx.http || (typeof Widget !== 'undefined' ? Widget.http : null);
-                var res = await httpClient.get(url, { headers: buildHeaders(cookie), timeout: 10000 });
-                var data = res && res.data !== undefined ? res.data : res;
-                if (typeof data === 'string') data = JSON.parse(data);
-                return data;
-            } catch (e) { return null; }
-        }
-        function cleanTitle(title) { return String(title || '').replace(/<[^>]+>/g, '').replace(/&quot;/g, '\"').trim(); }
-        async function loadRank(ctx, seasonType, page = 1) {
-            var url = `${DEFAULT_HOST}/pgc/web/rank/list?season_type=${seasonType}&pagesize=20&page=${page}&day=3`;
-            var res = await httpGet(ctx, url);
-            if (!res || res.code !== 0) return [];
-            var list = (res.result || res.data || {}).list || [];
-            return list.map(v => ({ id: 'bili_detail_' + v.season_id, type: 'link', title: cleanTitle(v.title), posterPath: v.cover, description: v.index_show || '' }));
-        }
-        async function loadBangumi() { return await loadRank(this, 1, 1); }
-        
-        WidgetMetadata = {
-            id: 'bilibili.official',
-            title: '哔哩影视',
-            modules: [
-                { id: 'bili_bangumi', title: '番剧', functionName: 'loadBangumi', type: 'video', cacheDuration: 1800 }
-            ]
-        };
-        module.exports = { WidgetMetadata, loadBangumi };
-      "
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E5%93%A4%E5%93%A1%E5%93%A4%E5%93%A1.js"
     },
     {
-      "id": "ti.xiaen8.zhibo-dianshi-wangluo",
+      "id": "ti.xiaen8.zhibo",
       "title": "直播(电视+网络)",
       "description": "获取 直播 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "script": "
-        WidgetMetadata = {
-            id: 'live',
-            title: '直播(电视+网络)',
-            modules: [{ title: '直播(电视+网络)', functionName: 'loadLiveItems', params: [{ name: 'url', title: '订阅链接', type: 'input', value: 'http://82.156.243.185:33389/fwc.m3u' }] }]
-        };
-        async function loadLiveItems(params = {}) {
-            try {
-                const url = params.url || 'http://82.156.243.185:33389/fwc.m3u';
-                const httpClient = this.http || (typeof Widget !== 'undefined' ? Widget.http : null);
-                const response = await httpClient.get(url, { headers: { 'User-Agent': 'AptvPlayer/1.4.6' } });
-                if (!response || !response.data) return [];
-                
-                const lines = response.data.split(/\\r?\\n/);
-                const items = [];
-                let currentTitle = '';
-                
-                for (let line of lines) {
-                    line = line.trim();
-                    if (line.startsWith('#EXTINF:')) {
-                        const match = line.match(/,(.*)$/);
-                        if (match) currentTitle = match[1].trim();
-                    } else if (line && !line.startsWith('#') && currentTitle) {
-                        items.push({ id: line, type: 'url', title: currentTitle, backdropPath: 'https://i.miji.bid/2025/05/17/c4a0703b68a4d2313a27937d82b72b6a.png', link: line, playerType: 'system' });
-                        currentTitle = '';
-                    }
-                }
-                return items;
-            } catch (error) { return []; }
-        }
-        module.exports = { WidgetMetadata, loadLiveItems };
-      "
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E7%9B%B4%E6%92%AD%28%E7%94%B5%E8%A7%86%2B%E7%BD%91%E7%BB%9C%29.js"
+    },
+    {
+      "id": "ti.xiaen8.jianpian-app",
+      "title": "jianpian:app",
+      "description": "获取 jianpian:app 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/jianpian%3Aapp.js"
+    },
+    {
+      "id": "ti.xiaen8.jianpian-yingyuan",
+      "title": "荐片:影院",
+      "description": "获取 荐片:影院 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "id": "ti.xiaen8.oule3",
+      "title": "欧乐:影视 3",
+      "description": "获取 欧乐:影视 3 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%203.js"
+    },
+    {
+      "id": "ti.xiaen8.oule4",
+      "title": "欧乐:影视 4",
+      "description": "获取 欧乐:影视 4 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%204.js"
+    },
+    {
+      "id": "ti.xiaen8.didiaoyingshi",
+      "title": "低调影视",
+      "description": "获取 低调影视 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E4%BD%8E%E8%B0%83%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "id": "ti.xiaen8.juheshishi",
+      "title": "聚合实时榜单",
+      "description": "获取 聚合实时榜单 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E8%81%9A%E5%90%88%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95.js"
+    },
+    {
+      "id": "ti.xiaen8.jinpai",
+      "title": "金牌影院",
+      "description": "获取 金牌影院 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "id": "ti.xiaen8.renren",
+      "title": "人人美剧",
+      "description": "获取 人人美剧 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E4%BA%BA%E4%BA%BA%E7%BE%8E%E5%8A%A7.js"
+    },
+    {
+      "id": "ti.xiaen8.wallpaper",
+      "title": "wallpaper",
+      "description": "获取 wallpaper 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/wallpaper.js"
+    },
+    {
+      "id": "ti.xiaen8.girigirilove",
+      "title": "girigirilove",
+      "description": "获取 girigirilove 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/girigirilove.js"
+    },
+    {
+      "id": "ti.xiaen8.girigirilove2",
+      "title": "girigirilove 2",
+      "description": "获取 girigirilove 2 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/girigirilove%202.js"
+    },
+    {
+      "id": "ti.xiaen8.girigirilove3",
+      "title": "girigirilove 3",
+      "description": "获取 girigirilove 3 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/girigirilove%203.js"
+    },
+    {
+      "id": "ti.xiaen8.ppnix1",
+      "title": "PPnix-1",
+      "description": "获取 PPnix-1 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/PPnix-1.js"
+    },
+    {
+      "id": "ti.xiaen8.wallpaper10",
+      "title": "10wallpaper",
+      "description": "获取 10wallpaper 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/10wallpaper.js"
     }
   ]
 }
