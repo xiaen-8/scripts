@@ -20,7 +20,8 @@
 
 | 📦 说明 | 📃 文件 |                                  🐙 GitHub RAW                                   |                                   🚀 CDN 加速                                    |
 | :----: | :----: | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
-|  VOD   | ti.fwd | [Github](https://github.com/bemarkt/scripts/raw/master/provider/Forward/ti.fwd) | [Jsdelivr](https://cdn.jsdelivr.net/gh/bemarkt/scripts/provider/Forward/ti.fwd) |
+|  VOD   | ti.fwd | [Github](https://github.com/bemarkt/scripts/raw/master/provider/Forward/ti.fwd) | [Jsdelivr](https://cdn.jsdelivr.net/gh/bemarkt/scripts/provider/Forward/ti.fwd) |（https://github.com/xiaen-8/scripts/raw/master/provider/Forward3/ti.fwd
+）
 
 ## 补充说明
 
