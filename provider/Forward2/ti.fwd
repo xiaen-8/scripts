@@ -4,164 +4,164 @@
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
     {
-      "id": "ti.xiaen8.10wallpaper",
+      "id": "ti.10wallpaper",
       "title": "10wallpaper",
       "description": "获取 10wallpaper 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/10wallpaper.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/10wallpaper.js"
     },
     {
-      "id": "ti.xiaen8.ppnix1",
+      "id": "ti.ppnix1",
       "title": "PPnix-1",
       "description": "获取 PPnix-1 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/PPnix-1.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/PPnix-1.js"
     },
     {
-      "id": "ti.xiaen8.girigirilove2",
+      "id": "ti.girigirilove2",
       "title": "girigirilove 2",
       "description": "获取 girigirilove 2 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/girigirilove%202.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/girigirilove%202.js"
     },
     {
-      "id": "ti.xiaen8.girigirilove3",
+      "id": "ti.girigirilove3",
       "title": "girigirilove 3",
       "description": "获取 girigirilove 3 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/girigirilove%203.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/girigirilove%203.js"
     },
     {
-      "id": "ti.xiaen8.girigirilove",
+      "id": "ti.girigirilove",
       "title": "girigirilove",
       "description": "获取 girigirilove 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/girigirilove.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/girigirilove.js"
     },
     {
-      "id": "ti.xiaen8.jianpian-app",
+      "id": "ti.jianpian-app",
       "title": "jianpian:app",
       "description": "获取 jianpian:app 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/jianpian%3Aapp.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/jianpian:app.js"
     },
     {
-      "id": "ti.xiaen8.wallpaper",
+      "id": "ti.wallpaper",
       "title": "wallpaper",
       "description": "获取 wallpaper 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/wallpaper.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/wallpaper.js"
     },
     {
-      "id": "ti.xiaen8.renren",
+      "id": "ti.renren",
       "title": "人人美剧",
       "description": "获取 人人美剧 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/%E4%BA%BA%E4%BA%BA%E7%BE%8E%E5%8A%A7.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E4%BA%BA%E4%BA%BA%E7%BE%8E%E5%8A%A7.js"
     },
     {
-      "id": "ti.xiaen8.didiaoyingshi",
+      "id": "ti.didiaoyingshi",
       "title": "低调影视",
       "description": "获取 低调影视 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/%E4%BD%8E%E8%B0%83%E5%BD%B1%E8%A7%86.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E4%BD%8E%E8%B0%83%E5%BD%B1%E8%A7%86.js"
     },
     {
-      "id": "ti.xiaen8.bilibili",
+      "id": "ti.bilibili",
       "title": "哔哩哔哩",
       "description": "获取 哔哩哔哩 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/%E5%93%A4%E5%93%A1%E5%93%A4%E5%93%A1.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E5%93%A4%E5%93%A1%E5%93%A4%E5%93%A1.js"
     },
     {
-      "id": "ti.xiaen8.oule3",
+      "id": "ti.oule3",
       "title": "欧乐:影视 3",
       "description": "获取 欧乐:影视 3 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%203.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E6%AC%A7%E4%B9%90:%E5%BD%B1%E8%A7%86%203.js"
     },
     {
-      "id": "ti.xiaen8.oule4",
+      "id": "ti.oule4",
       "title": "欧乐:影视 4",
       "description": "获取 欧乐:影视 4 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%204.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E6%AC%A7%E4%B9%90:%E5%BD%B1%E8%A7%86%204.js"
     },
     {
-      "id": "ti.xiaen8.zhibo",
+      "id": "ti.zhibo",
       "title": "直播(电视+网络)",
       "description": "获取 直播 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/%E7%9B%B4%E6%92%AD%28%E7%94%B5%E8%A7%86%2B%E7%BD%91%E7%BB%9C%29.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E7%9B%B4%E6%92%AD%28%E7%94%B5%E8%A7%86%2B%E7%BD%91%E7%BB%9C%29.js"
     },
     {
-      "id": "ti.xiaen8.juheshishi",
+      "id": "ti.juheshishi",
       "title": "聚合实时榜单",
       "description": "获取 聚合实时榜单 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/%E8%81%9A%E5%90%88%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E8%81%9A%E5%90%88%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95.js"
     },
     {
-      "id": "ti.xiaen8.jianpian-yingyuan",
+      "id": "ti.jianpian-yingyuan",
       "title": "荐片:影院",
       "description": "获取 荐片:影院 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E8%8D%90%E7%89%87:%E5%BD%B1%E9%99%A2.js"
     },
     {
-      "id": "ti.xiaen8.jinpai",
+      "id": "ti.jinpai",
       "title": "金牌影院",
       "description": "获取 金牌影院 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts",
-      "url": "https://jsd.onmicrosoft.cn/gh/xiaen-8/scripts@master/provider/Forward2/Widgets/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
     }
   ]
 }
