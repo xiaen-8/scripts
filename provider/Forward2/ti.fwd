@@ -1,29 +1,27 @@
 {
-  "title": "夏恩常用",
+  "title": "夏恩主用",
   "description": "Made by Love",
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
     {
       "id": "ti.xiaen8.bilibili",
       "title": "哔哩哔哩",
-      "description": "获取 哔哩哔哩 数据 (已通过宿主环境注入修复)",
+      "description": "获取 哔哩哔哩 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E5%93%A4%E5%93%A1%E5%93%A4%E5%93%A1.js",
-      "script": "if(typeof global!=='undefined'&&!global.Widget){global.Widget={http:this.http};} const org=require('./%E5%93%A4%E5%93%A1%E5%93%A4%E5%93%A1.js'); module.exports=org;"
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E5%93%A4%E5%93%A1%E5%93%A4%E5%93%A1.js"
     },
     {
-      "id": "ti.xiaen8.zhibo-dianshi-wangluo",
+      "id": "ti.xiaen8.zhibo",
       "title": "直播(电视+网络)",
-      "description": "获取 直播 数据 (已挂载空值与安全捕获)",
+      "description": "获取 直播 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E7%9B%B4%E6%92%AD%28%E7%94%B5%E8%A7%86%2B%E7%BD%91%E7%BB%9C%29.js",
-      "script": "if(typeof global!=='undefined'&&!global.Widget){global.Widget={http:this.http};} const org=require('./%E7%9B%B4%E6%92%AD%28%E7%94%B5%E8%A7%86%2B%E7%BD%91%E7%BB%9C%29.js'); const wrap={}; Object.keys(org).forEach(k=>{if(typeof org[k]==='function'){wrap[k]=async function(...args){try{return await org[k].apply(this,args);}catch(e){console.log(e);return [];}};}else{wrap[k]=org[k];}}); module.exports=wrap;"
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E7%9B%B4%E6%92%AD%28%E7%94%B5%E8%A7%86%2B%E7%BD%91%E7%BB%9C%29.js"
     },
     {
       "id": "ti.xiaen8.jianpian-app",
@@ -32,9 +30,8 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/jianpian%3Aapp.js",
-      "script": "if(typeof global!=='undefined'&&!global.Widget){global.Widget={http:this.http};} module.exports=require('./jianpian%3Aapp.js');"
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/jianpian%3Aapp.js"
     },
     {
       "id": "ti.xiaen8.jianpian-yingyuan",
@@ -43,101 +40,28 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js",
-      "script": "if(typeof global!=='undefined'&&!global.Widget){global.Widget={http:this.http};} module.exports=require('./%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js');"
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js"
     },
     {
-      "id": "ti.xiaen8.oule-yingshi-3",
+      "id": "ti.xiaen8.oule3",
       "title": "欧乐:影视 3",
       "description": "获取 欧乐:影视 3 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%203.js",
-      "script": "if(typeof global!=='undefined'&&!global.Widget){global.Widget={http:this.http};} module.exports=require('./%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%203.js');"
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%203.js"
     },
     {
-      "id": "ti.xiaen8.oule-yingshi-4",
+      "id": "ti.xiaen8.oule4",
       "title": "欧乐:影视 4",
       "description": "获取 欧乐:影视 4 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%204.js",
-      "script": "if(typeof global!=='undefined'&&!global.Widget){global.Widget={http:this.http};} module.exports=require('./%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%204.js');"
-    },
-    {
-      "id": "ti.xiaen8.10wallpaper",
-      "title": "10wallpaper",
-      "description": "获取 10wallpaper 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/10wallpaper.js"
-    },
-    {
-      "id": "ti.xiaen8.ppnix-1",
-      "title": "PPnix-1",
-      "description": "获取 PPnix-1 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/PPnix-1.js"
-    },
-    {
-      "id": "ti.xiaen8.girigirilove-2",
-      "title": "girigirilove 2",
-      "description": "获取 girigirilove 2 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/girigirilove%202.js"
-    },
-    {
-      "id": "ti.xiaen8.girigirilove-3",
-      "title": "girigirilove 3",
-      "description": "获取 girigirilove 3 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/girigirilove%203.js"
-    },
-    {
-      "id": "ti.xiaen8.girigirilove",
-      "title": "girigirilove",
-      "description": "获取 girigirilove 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/girigirilove.js"
-    },
-    {
-      "id": "ti.xiaen8.wallpaper",
-      "title": "wallpaper",
-      "description": "获取 wallpaper 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/wallpaper.js"
-    },
-    {
-      "id": "ti.xiaen8.renrenmeiju",
-      "title": "人人美剧",
-      "description": "获取 人人美剧 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E4%BA%BA%E4%BA%BA%E7%BE%8E%E5%8A%A7.js"
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%204.js"
     },
     {
       "id": "ti.xiaen8.didiaoyingshi",
@@ -146,28 +70,98 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "website": "https://github.com/xiaen-8/scripts",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E4%BD%8E%E8%B0%83%E5%BD%B1%E8%A7%86.js"
     },
     {
-      "id": "ti.xiaen8.juheshishibangdan",
+      "id": "ti.xiaen8.juheshishi",
       "title": "聚合实时榜单",
       "description": "获取 聚合实时榜单 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "website": "https://github.com/xiaen-8/scripts",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E8%81%9A%E5%90%88%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95.js"
     },
     {
-      "id": "ti.xiaen8.jinpaiyingyuan",
+      "id": "ti.xiaen8.jinpai",
       "title": "金牌影院",
       "description": "获取 金牌影院 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "website": "https://github.com/xiaen-8/scripts",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "id": "ti.xiaen8.renren",
+      "title": "人人美剧",
+      "description": "获取 人人美剧 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E4%BA%BA%E4%BA%BA%E7%BE%8E%E5%8A%A7.js"
+    },
+    {
+      "id": "ti.xiaen8.wallpaper",
+      "title": "wallpaper",
+      "description": "获取 wallpaper 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/wallpaper.js"
+    },
+    {
+      "id": "ti.xiaen8.girigirilove",
+      "title": "girigirilove",
+      "description": "获取 girigirilove 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/girigirilove.js"
+    },
+    {
+      "id": "ti.xiaen8.girigirilove2",
+      "title": "girigirilove 2",
+      "description": "获取 girigirilove 2 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/girigirilove%202.js"
+    },
+    {
+      "id": "ti.xiaen8.girigirilove3",
+      "title": "girigirilove 3",
+      "description": "获取 girigirilove 3 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/girigirilove%203.js"
+    },
+    {
+      "id": "ti.xiaen8.ppnix1",
+      "title": "PPnix-1",
+      "description": "获取 PPnix-1 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/PPnix-1.js"
+    },
+    {
+      "id": "ti.xiaen8.wallpaper10",
+      "title": "10wallpaper",
+      "description": "获取 10wallpaper 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/10wallpaper.js"
     }
   ]
 }
