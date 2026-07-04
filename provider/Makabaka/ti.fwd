@@ -1,88 +1,88 @@
 {
-  "title": "Makabaka🔞",
+  "title": "Ti's Widgets",
   "description": "Made by Love",
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
     {
-      "id": "ti.bemarkt.91porn_int",
+      "id": "91porn_int",
       "title": "91porn_int",
       "description": "获取 91porn_int 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Makabaka/Widgets/91porn_int.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Makabaka/Widgets/91porn_int.js"
     },
     {
-      "id": "ti.bemarkt.91porny_int",
+      "id": "91porny_int",
       "title": "91porny_int",
       "description": "获取 91porny_int 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Makabaka/Widgets/91porny_int.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Makabaka/Widgets/91porny_int.js"
     },
     {
-      "id": "ti.bemarkt.nsfw_live",
+      "id": "nsfw_live",
       "title": "NSFW-LIVE",
       "description": "获取 NSFW-LIVE 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Makabaka/Widgets/NSFW-LIVE.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Makabaka/Widgets/NSFW-LIVE.js"
     },
     {
-      "id": "ti.bemarkt.the",
+      "id": "the",
       "title": "The",
       "description": "获取 The 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Makabaka/Widgets/The"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Makabaka/Widgets/The"
     },
     {
-      "id": "ti.bemarkt.jable",
+      "id": "jable",
       "title": "jable",
       "description": "获取 jable 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Makabaka/Widgets/jable.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Makabaka/Widgets/jable.js"
     },
     {
-      "id": "ti.bemarkt.javday_int",
+      "id": "javday_int",
       "title": "javday_int",
       "description": "获取 javday_int 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Makabaka/Widgets/javday_int.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Makabaka/Widgets/javday_int.js"
     },
     {
-      "id": "ti.bemarkt.missavovo",
+      "id": "missavovo",
       "title": "missavovo",
       "description": "获取 missavovo 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Makabaka/Widgets/missavovo.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Makabaka/Widgets/missavovo.js"
     },
     {
-      "id": "ti.bemarkt.pornhub_int",
+      "id": "pornhub_int",
       "title": "pornhub_int",
       "description": "获取 pornhub_int 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Makabaka/Widgets/pornhub_int.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Makabaka/Widgets/pornhub_int.js"
     },
     {
-      "id": "ti.bemarkt.xvideos_int",
+      "id": "xvideos_int",
       "title": "xvideos_int",
       "description": "获取 xvideos_int 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Makabaka/Widgets/xvideos_int.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Makabaka/Widgets/xvideos_int.js"
     }
   ]
 }
