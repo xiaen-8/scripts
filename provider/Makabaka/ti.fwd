@@ -31,15 +31,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Makabaka/Widgets/NSFW-LIVE.js"
     },
     {
-      "id": "the",
-      "title": "The",
-      "description": "获取 The 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Makabaka/Widgets/The"
-    },
-    {
       "id": "jable",
       "title": "jable",
       "description": "获取 jable 数据",
