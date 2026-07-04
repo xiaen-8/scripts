@@ -1,5 +1,5 @@
 {
-  "title": "Ti's Widgets",
+  "title": "Shane",
   "description": "Made by Love",
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
@@ -19,7 +19,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/PPnix-1.js"
+      "url": "https://github.com/xiaen-8/scripts/blob/master/provider/Forward2/Widgets/PPnix-1.js"
     },
     {
       "id": "ti.xiaen8.bilibili",
