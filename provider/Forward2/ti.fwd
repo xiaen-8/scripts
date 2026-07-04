@@ -1,5 +1,5 @@
 {
-  "title": "Shane",
+  "title": "Ti's Widgets",
   "description": "Made by Love",
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
@@ -10,25 +10,25 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/10wallpaper.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/10wallpaper.js"
     },
-   {
-     "id": "ti.xiaen8.ppnix-1",
-     "title": "PPnix-1",
-     "description": "获取 PPnix-1 数据",
-     "requiredVersion": "0.0.1",
-     "version": "1.0.0",
-     "author": "Ti",
-     "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/PPnix-1.js"
-   },
-  {
+    {
+      "id": "ti.xiaen8.ppnix-1",
+      "title": "PPnix-1",
+      "description": "获取 PPnix-1 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/PPnix-1.js"
+    },
+    {
       "id": "ti.xiaen8.bilibili",
       "title": "bilibili",
       "description": "获取 bilibili 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/bilibili.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/bilibili.js"
     },
     {
       "id": "ti.xiaen8.girigirilove-2",
@@ -37,7 +37,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/girigirilove%202.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/girigirilove%202.js"
     },
     {
       "id": "ti.xiaen8.girigirilove-3",
@@ -46,7 +46,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/girigirilove%203.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/girigirilove%203.js"
     },
     {
       "id": "ti.xiaen8.girigirilove",
@@ -55,7 +55,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/girigirilove.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/girigirilove.js"
     },
     {
       "id": "ti.xiaen8.jianpian-app",
@@ -64,7 +64,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/jianpian%3Aapp.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/jianpian%3Aapp.js"
     },
     {
       "id": "ti.xiaen8.wallpaper",
@@ -73,7 +73,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/wallpaper.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/wallpaper.js"
     },
     {
       "id": "ti.xiaen8.renrenmeiju",
@@ -82,7 +82,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E4%BA%BA%E4%BA%BA%E7%BE%8E%E5%89%A7.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E4%BA%BA%E4%BA%BA%E7%BE%8E%E5%89%A7.js"
     },
     {
       "id": "ti.xiaen8.didiaoyingshi",
@@ -91,7 +91,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E4%BD%8E%E8%B0%83%E5%BD%B1%E8%A7%86.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E4%BD%8E%E8%B0%83%E5%BD%B1%E8%A7%86.js"
     },
     {
       "id": "ti.xiaen8.oule-yingshi-3",
@@ -100,7 +100,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%203.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%203.js"
     },
     {
       "id": "ti.xiaen8.oule-yingshi-4",
@@ -109,7 +109,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%204.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%204.js"
     },
     {
       "id": "ti.xiaen8.zhibo-dianshi-wangluo",
@@ -118,7 +118,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E7%9B%B4%E6%92%AD(%E7%94%B5%E8%A7%86%2B%E7%BD%91%E7%BB%9C).js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E7%9B%B4%E6%92%AD(%E7%94%B5%E8%A7%86%2B%E7%BD%91%E7%BB%9C).js"
     },
     {
       "id": "ti.xiaen8.juheshishibangdan",
@@ -127,7 +127,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E5%AF%A1%E5%90%88%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E8%81%9A%E5%90%88%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95.js"
     },
     {
       "id": "ti.xiaen8.jianpian-yingyuan",
@@ -136,7 +136,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js"
     },
     {
       "id": "ti.xiaen8.jinpaiyingyuan",
@@ -145,7 +145,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
     }
   ]
 }
