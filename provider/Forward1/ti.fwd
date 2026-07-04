@@ -4,472 +4,524 @@
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
     {
-      "id": "ti.bemarkt.10wallpaper",
+      "id": "ti.xiaen8.10wallpaper",
       "title": "10wallpaper",
       "description": "获取 10wallpaper 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/10wallpaper.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/10wallpaper.js"
     },
     {
-      "id": "ti.bemarkt.115-autostream",
+      "id": "ti.xiaen8.115-autostream",
       "title": "115 Autostream",
       "description": "获取 115 Autostream 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/115%20Autostream.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/115%20Autostream.js"
     },
     {
-      "id": "ti.bemarkt.123av-2",
+      "id": "ti.xiaen8.123av-2",
       "title": "123av 2",
       "description": "获取 123av 2 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/123av%202.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/123av%202.js"
     },
     {
-      "id": "ti.bemarkt.123av-stream-2",
+      "id": "ti.xiaen8.123av-stream-2",
       "title": "123av-stream 2",
       "description": "获取 123av-stream 2 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/123av-stream%202.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/123av-stream%202.js"
     },
     {
-      "id": "ti.bemarkt.123av-stream",
+      "id": "ti.xiaen8.123av-stream",
       "title": "123av-stream",
       "description": "获取 123av-stream 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/123av-stream.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/123av-stream.js"
     },
     {
-      "id": "ti.bemarkt.123av",
+      "id": "ti.xiaen8.123av",
       "title": "123av",
       "description": "获取 123av 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/123av.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/123av.js"
     },
     {
-      "id": "ti.bemarkt.91porn",
+      "id": "ti.xiaen8.91porn",
       "title": "91Porn",
       "description": "获取 91Porn 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/91Porn.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/91Porn.js"
     },
     {
-      "id": "ti.bemarkt.catpawplay-fw",
+      "id": "ti.xiaen8.catpawplay-fw",
       "title": "CatPawPlay_FW",
       "description": "获取 CatPawPlay_FW 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/CatPawPlay_FW.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/CatPawPlay_FW.js"
     },
     {
-      "id": "ti.bemarkt.missav-3.1",
+      "id": "ti.xiaen8.missav-3.1",
       "title": "MissAV 3.1",
       "description": "获取 MissAV 3.1 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/MissAV%203.1.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/MissAV%203.1.js"
     },
     {
-      "id": "ti.bemarkt.missav-3.2.1",
+      "id": "ti.xiaen8.missav-3.2.1",
       "title": "MissAV 3.2.1",
       "description": "获取 MissAV 3.2.1 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/MissAV%203.2.1.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/MissAV%203.2.1.js"
     },
     {
-      "id": "ti.bemarkt.missav-3.2.2",
+      "id": "ti.xiaen8.missav-3.2.2",
       "title": "MissAV 3.2.2",
       "description": "获取 MissAV 3.2.2 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/MissAV%203.2.2.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/MissAV%203.2.2.js"
     },
     {
-      "id": "ti.bemarkt.missav-3.2",
+      "id": "ti.xiaen8.missav-3.2",
       "title": "MissAV 3.2",
       "description": "获取 MissAV 3.2 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/MissAV%203.2.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/MissAV%203.2.js"
     },
     {
-      "id": "ti.bemarkt.missav",
+      "id": "ti.xiaen8.missav",
       "title": "MissAV",
       "description": "获取 MissAV 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/MissAV.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/MissAV.js"
     },
     {
-      "id": "ti.bemarkt.ppnix-1",
+      "id": "ti.xiaen8.ppnix-1",
       "title": "PPnix-1",
       "description": "获取 PPnix-1 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/PPnix-1.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/PPnix-1.js"
     },
     {
-      "id": "ti.bemarkt.uc-netdisk",
+      "id": "ti.xiaen8.uc-netdisk",
       "title": "UC网盘",
       "description": "获取 UC网盘 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/UC%E7%BD%91%E7%9B%98.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/UC%E7%BD%91%E7%9B%98.js"
     },
     {
-      "id": "ti.bemarkt.xvideos",
+      "id": "ti.xiaen8.xvideos",
       "title": "XVideos",
       "description": "获取 XVideos 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/XVideos.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/XVideos.js"
     },
     {
-      "id": "ti.bemarkt.cf-decryption",
+      "id": "ti.xiaen8.cf-decryption",
       "title": "cf解密项目(51吃瓜+每日大...)",
       "description": "获取 cf解密项目(51吃瓜+每日大...) 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/cf%E8%A7%A3%E5%AF%86%E9%A1%B9%E7%9B%AE%2851%E5%90%83%E7%93%9C%EF%BC%8B%E6%AF%8F%E6%97%A5%E5%A4%A5...js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/cf%E8%A7%A3%E5%AF%86%E9%A1%B9%E7%9B%AE%2851%E5%90%83%E7%93%9C%EF%BC%8B%E6%AF%8F%E6%97%A5%E5%A4%A5...js"
     },
     {
-      "id": "ti.bemarkt.cloud189",
+      "id": "ti.xiaen8.cloud189",
       "title": "cloud189",
       "description": "获取 cloud189 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/cloud189.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/cloud189.js"
     },
     {
-      "id": "ti.bemarkt.code",
+      "id": "ti.xiaen8.code",
       "title": "code",
       "description": "获取 code 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/code.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/code.js"
     },
     {
-      "id": "ti.bemarkt.fyptt",
+      "id": "ti.xiaen8.fyptt",
       "title": "fyptt",
       "description": "获取 fyptt 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/fyptt.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/fyptt.js"
     },
     {
-      "id": "ti.bemarkt.girigirilove-2",
+      "id": "ti.xiaen8.girigirilove-2",
       "title": "girigirilove 2",
       "description": "获取 girigirilove 2 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/girigirilove%202.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/girigirilove%202.js"
     },
     {
-      "id": "ti.bemarkt.girigirilove-3",
+      "id": "ti.xiaen8.girigirilove-3",
       "title": "girigirilove 3",
       "description": "获取 girigirilove 3 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/girigirilove%203.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/girigirilove%203.js"
     },
     {
-      "id": "ti.bemarkt.girigirilove",
+      "id": "ti.xiaen8.girigirilove",
       "title": "girigirilove",
       "description": "获取 girigirilove 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/girigirilove.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/girigirilove.js"
     },
     {
-      "id": "ti.bemarkt.hanime1-2.2.1",
+      "id": "ti.xiaen8.hanime1-2.2.1",
       "title": "hanime1-2.2.1",
       "description": "获取 hanime1-2.2.1 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/hanime1-2.2.1.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/hanime1-2.2.1.js"
     },
     {
-      "id": "ti.bemarkt.hanime1",
+      "id": "ti.xiaen8.hanime1",
       "title": "hanime1",
       "description": "获取 hanime1 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/hanime1.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/hanime1.js"
     },
     {
-      "id": "ti.bemarkt.jable",
+      "id": "ti.xiaen8.jable",
       "title": "jable",
       "description": "获取 jable 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/jable.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/jable.js"
     },
     {
-      "id": "ti.bemarkt.javday",
+      "id": "ti.xiaen8.javday",
       "title": "javday",
       "description": "获取 javday 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/javday.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/javday.js"
     },
     {
-      "id": "ti.bemarkt.javplayer",
+      "id": "ti.xiaen8.javplayer",
       "title": "javplayer",
       "description": "获取 javplayer 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/javplayer.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/javplayer.js"
     },
     {
-      "id": "ti.bemarkt.jianpian-app",
+      "id": "ti.xiaen8.jianpian-app",
       "title": "jianpian:app",
       "description": "获取 jianpian:app 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/jianpian%3Aapp.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/jianpian%3Aapp.js"
     },
     {
-      "id": "ti.bemarkt.missav-stream",
+      "id": "ti.xiaen8.missav-stream",
       "title": "missav-stream",
       "description": "获取 missav-stream 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/missav-stream.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/missav-stream.js"
     },
     {
-      "id": "ti.bemarkt.pan115-v1.3.1-stable",
+      "id": "ti.xiaen8.pan115-v1.3.1-stable",
       "title": "pan115_v1.3.1-stable",
       "description": "获取 pan115_v1.3.1-stable 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/pan115_v1.3.1-stable.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/pan115_v1.3.1-stable.js"
     },
     {
-      "id": "ti.bemarkt.papapa",
+      "id": "ti.xiaen8.papapa",
       "title": "papapa",
       "description": "获取 papapa 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/papapa.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/papapa.js"
     },
     {
-      "id": "ti.bemarkt.pornhub",
+      "id": "ti.xiaen8.pornhub",
       "title": "pornhub",
       "description": "获取 pornhub 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/pornhub.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/pornhub.js"
     },
     {
-      "id": "ti.bemarkt.pubjav",
+      "id": "ti.xiaen8.pubjav",
       "title": "pubjav",
       "description": "获取 pubjav 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/pubjav.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/pubjav.js"
     },
     {
-      "id": "ti.bemarkt.tikporn",
+      "id": "ti.xiaen8.tikporn",
       "title": "tikporn",
       "description": "获取 tikporn 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/tikporn.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/tikporn.js"
     },
     {
-      "id": "ti.bemarkt.tlsm",
+      "id": "ti.xiaen8.tlsm",
       "title": "tlsm",
       "description": "获取 tlsm 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/tlsm.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/tlsm.js"
     },
     {
-      "id": "ti.bemarkt.wallpaper",
+      "id": "ti.xiaen8.wallpaper",
       "title": "wallpaper",
       "description": "获取 wallpaper 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/wallpaper.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/wallpaper.js"
     },
     {
-      "id": "ti.bemarkt.xhamster",
+      "id": "ti.xiaen8.xhamster",
       "title": "xhamster",
       "description": "获取 xhamster 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/xhamster.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/xhamster.js"
     },
     {
-      "id": "ti.bemarkt.ysbd",
+      "id": "ti.xiaen8.ysbd",
       "title": "ysbd",
       "description": "获取 ysbd 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/ysbd.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/ysbd.js"
     },
     {
-      "id": "ti.bemarkt.renrenmeiju",
+      "id": "ti.xiaen8.renrenmeiju",
       "title": "人人美剧",
       "description": "获取 人人美剧 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E4%BA%BA%E4%BA%BA%E7%BE%8E%E5%89%A7.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E4%BA%BA%E4%BA%BA%E7%BE%8E%E5%89%A7.js"
     },
     {
-      "id": "ti.bemarkt.didiaoyingshi",
+      "id": "ti.xiaen8.didiaoyingshi",
       "title": "低调影视",
       "description": "获取 低调影视 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E4%BD%8E%E8%B0%83%E5%BD%B1%E8%A7%86.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E4%BD%8E%E8%B0%83%E5%BD%B1%E8%A7%86.js"
     },
     {
-      "id": "ti.bemarkt.bilibili",
+      "id": "ti.xiaen8.bilibili",
       "title": "哔哩哔哩",
       "description": "获取 哔哩哔哩 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E5%93%94%E5%93%A9%E5%93%A9%E5%93%A9.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E5%93%94%E5%93%A9%E5%93%A9%E5%93%A9.js"
     },
     {
-      "id": "ti.bemarkt.quark-netdisk",
+      "id": "ti.xiaen8.quark-netdisk",
       "title": "夸克网盘",
       "description": "获取 夸克网盘 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E5%A5%B8%E5%85%8B%E7%BD%91%E7%9B%98.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E5%A5%B8%E5%85%8B%E7%BD%91%E7%9B%98.js"
     },
     {
-      "id": "ti.bemarkt.xiaoya-alist-v3.2",
+      "id": "ti.xiaen8.xiaoya-alist-v3.2",
       "title": "小雅AList v3.2",
       "description": "获取 小雅AList v3.2 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E5%B0%8F%E9%9B%85AList%20v3.2.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E5%B0%8F%E9%9B%85AList%20v3.2.js"
     },
     {
-      "id": "ti.bemarkt.muou4k-quark-netdisk",
+      "id": "ti.xiaen8.muou4k-quark-netdisk",
       "title": "木偶4K · 夸克网盘",
       "description": "获取 木偶4K · 夸克网盘 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E6%9C%A8%E5%81%B64K%20%C2%B7%20%E5%A5%B8%E5%85%8B%E7%BD%91%E7%9B%98.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E6%9C%A8%E5%81%B64K%20%C2%B7%20%E5%A5%B8%E5%85%8B%E7%BD%91%E7%9B%98.js"
     },
     {
-      "id": "ti.bemarkt.oule-yingshi-3",
+      "id": "ti.xiaen8.oule-yingshi-3",
       "title": "欧乐:影视 3",
       "description": "获取 欧乐:影视 3 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%203.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%203.js"
     },
     {
-      "id": "ti.bemarkt.oule-yingshi-4",
+      "id": "ti.xiaen8.oule-yingshi-4",
       "title": "欧乐:影视 4",
       "description": "获取 欧乐:影视 4 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%204.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%204.js"
     },
     {
-      "id": "ti.bemarkt.baidu-netdisk",
+      "id": "ti.xiaen8.baidu-netdisk",
       "title": "百度网盘",
       "description": "获取 百度网盘 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98.js"
     },
     {
-      "id": "ti.bemarkt.juheshishibangdan",
+      "id": "ti.xiaen8.juheshishibangdan",
       "title": "聚合实时榜单",
       "description": "获取 聚合实时榜单 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E8%81%9A%E5%90%88%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E8%81%9A%E5%90%88%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95.js"
     },
     {
-      "id": "ti.bemarkt.zhizhen-pan",
+      "id": "ti.xiaen8.zhizhen-pan",
       "title": "至臻[盘]",
       "description": "获取 至臻[盘] 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E8%87%B3%E8%87%BB%5B%E7%9B%98%5D.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E8%87%B3%E8%87%BB%5B%E7%9B%98%5D.js"
     },
     {
-      "id": "ti.bemarkt.jianpian-yingyuan",
+      "id": "ti.xiaen8.jianpian-yingyuan",
       "title": "荐片:影院",
       "description": "获取 荐片:影院 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js"
     },
     {
-      "id": "ti.bemarkt.jinpaiyingyuan",
+      "id": "ti.xiaen8.jinpaiyingyuan",
       "title": "金牌影院",
       "description": "获取 金牌影院 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/bemarkt/scripts/refs/heads/master/provider/Forward/widgets/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/Forward1/widgets/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
     }
   ]
 }
