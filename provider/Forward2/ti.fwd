@@ -1,5 +1,5 @@
 {
-  "title": "Shane",
+  "title": "Ti's Widgets",
   "description": "Made by Love",
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
@@ -10,88 +10,16 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴10wallpaper转换后的链接"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/10wallpaper.js"
     },
     {
-      "id": "ti.xiaen8.PPnix-1",
+      "id": "ti.xiaen8.ppnix-1",
       "title": "PPnix-1",
       "description": "获取 PPnix-1 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴PPnix-1转换后的链接"
-    },
-    {
-      "id": "ti.xiaen8.girigirilove-2",
-      "title": "girigirilove 2",
-      "description": "获取 girigirilove 2 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴girigirilove-2转换后的链接"
-    },
-    {
-      "id": "ti.xiaen8.girigirilove 3",
-      "title": "girigirilove 3",
-      "description": "获取 girigirilove 3 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴girigirilove-3转换后的链接"
-    },
-    {
-      "id": "ti.xiaen8.girigirilove",
-      "title": "girigirilove",
-      "description": "获取 girigirilove 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴girigirilove转换后的链接"
-    },
-    {
-      "id": "ti.xiaen8.jianpian-app",
-      "title": "jianpian:app",
-      "description": "获取 jianpian:app 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴jianpian-app转换后的链接"
-    },
-    {
-      "id": "ti.xiaen8.wallpaper",
-      "title": "wallpaper",
-      "description": "获取 wallpaper 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴wallpaper转换后的链接"
-    },
-    {
-      "id": "ti.xiaen8.renrenmeiju",
-      "title": "人人美剧",
-      "description": "获取 人人美剧 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴人人美剧转换后的链接"
-    },
-    {
-      "id": "ti.xiaen8.didiaoyingshi",
-      "title": "低调影视",
-      "description": "获取 低调影视 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴低调影视转换后的链接"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/PPnix-1.js"
     },
     {
       "id": "ti.xiaen8.bilibili",
@@ -100,8 +28,70 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴哔哩哔哩转换后的链接"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/bilibili.js"
+    },
+    {
+      "id": "ti.xiaen8.girigirilove-2",
+      "title": "girigirilove 2",
+      "description": "获取 girigirilove 2 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/girigirilove%202.js"
+    },
+    {
+      "id": "ti.xiaen8.girigirilove-3",
+      "title": "girigirilove 3",
+      "description": "获取 girigirilove 3 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/girigirilove%203.js"
+    },
+    {
+      "id": "ti.xiaen8.girigirilove",
+      "title": "girigirilove",
+      "description": "获取 girigirilove 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/girigirilove.js"
+    },
+    {
+      "id": "ti.xiaen8.jianpian-app",
+      "title": "jianpian:app",
+      "description": "获取 jianpian:app 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/jianpian%3Aapp.js"
+    },
+    {
+      "id": "ti.xiaen8.wallpaper",
+      "title": "wallpaper",
+      "description": "获取 wallpaper 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/wallpaper.js"
+    },
+    {
+      "id": "ti.xiaen8.renrenmeiju",
+      "title": "人人美剧",
+      "description": "获取 人人美剧 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E4%BA%BA%E4%BA%BA%E7%BE%8E%E5%89%A7.js"
+    },
+    {
+      "id": "ti.xiaen8.didiaoyingshi",
+      "title": "低调影视",
+      "description": "获取 低调影视 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E4%BD%8E%E8%B0%83%E5%BD%B1%E8%A7%86.js"
     },
     {
       "id": "ti.xiaen8.oule-yingshi-3",
@@ -110,8 +100,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴欧乐3转换后的链接"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%203.js"
     },
     {
       "id": "ti.xiaen8.oule-yingshi-4",
@@ -120,8 +109,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴欧乐4转换后的链接"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E6%AC%A7%E4%B9%90%3A%E5%BD%B1%E8%A7%86%204.js"
     },
     {
       "id": "ti.xiaen8.zhibo-dianshi-wangluo",
@@ -130,8 +118,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴直播转换后的链接"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E7%9B%B4%E6%92%AD(%E7%94%B5%E8%A7%86%2B%E7%BD%91%E7%BB%9C).js"
     },
     {
       "id": "ti.xiaen8.juheshishibangdan",
@@ -140,8 +127,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴聚合榜单转换后的链接"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E5%AF%A1%E5%90%88%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95.js"
     },
     {
       "id": "ti.xiaen8.jianpian-yingyuan",
@@ -150,8 +136,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴荐片转换后的链接"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js"
     },
     {
       "id": "ti.xiaen8.jinpaiyingyuan",
@@ -160,8 +145,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward2",
-      "url": "https://danmu.workers.dev/在此粘贴金牌影院转换后的链接"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
     }
   ]
 }
