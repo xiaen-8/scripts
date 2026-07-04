@@ -14,7 +14,7 @@
       "url": "https://danmu.workers.dev/在此粘贴10wallpaper转换后的链接"
     },
     {
-      "id": "ti.xiaen8.ppnix-1",
+      "id": "ti.xiaen8.PPnix-1",
       "title": "PPnix-1",
       "description": "获取 PPnix-1 数据",
       "requiredVersion": "0.0.1",
@@ -34,7 +34,7 @@
       "url": "https://danmu.workers.dev/在此粘贴girigirilove-2转换后的链接"
     },
     {
-      "id": "ti.xiaen8.girigirilove-3",
+      "id": "ti.xiaen8.girigirilove 3",
       "title": "girigirilove 3",
       "description": "获取 girigirilove 3 数据",
       "requiredVersion": "0.0.1",
@@ -95,8 +95,8 @@
     },
     {
       "id": "ti.xiaen8.bilibili",
-      "title": "哔哩哔哩",
-      "description": "获取 哔哩哔哩 数据",
+      "title": "bilibili",
+      "description": "获取 bilibili 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
