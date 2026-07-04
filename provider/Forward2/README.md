@@ -1,4 +1,6 @@
 # Forward Widgets
+导入链接
+https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/ti.fwd
 
 ## 免责声明
 
