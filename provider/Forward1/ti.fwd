@@ -1,8 +1,18 @@
 {
-  "title": "shane🔞",
+  "title": "夏恩🔞",
   "description": "Made by Love",
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
+    {
+      "id": "ti.xiaen8.beeg",
+      "title": "beeg",
+      "description": "获取 beeg 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/beeg.js"
+    },
     {
       "id": "ti.xiaen8.123av-2",
       "title": "123av 2",
