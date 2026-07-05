@@ -14,16 +14,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/beeg.js"
     },
     {
-      "id": "ti.xiaen8.beeg-2",
-      "title": "beeg 2",
-      "description": "获取 beeg 2 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/beeg-2.js"
-    },
-    {
       "id": "ti.xiaen8.123av-2",
       "title": "123av 2",
       "description": "获取 123av 2 数据",
@@ -31,7 +21,7 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/123av-2.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/123av%202.js"
     },
     {
       "id": "ti.xiaen8.123av-stream-2",
@@ -41,7 +31,7 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/123av-stream-2.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/123av-stream%202.js"
     },
     {
       "id": "ti.xiaen8.123av-stream",
@@ -81,7 +71,7 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/missav-3-1.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV%203.1.js"
     },
     {
       "id": "ti.xiaen8.missav-3.2.1",
@@ -91,7 +81,7 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/missav-3-2-1.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV%203.2.1.js"
     },
     {
       "id": "ti.xiaen8.missav-3.2.2",
@@ -101,7 +91,7 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/missav-3-2-2.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV%203.2.2.js"
     },
     {
       "id": "ti.xiaen8.missav-3.2",
@@ -111,7 +101,7 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/missav-3-2.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV%203.2.js"
     },
     {
       "id": "ti.xiaen8.missav",
@@ -134,16 +124,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/XVideos.js"
     },
     {
-      "id": "ti.xiaen8.xvideos-2",
-      "title": "XVideos 2",
-      "description": "获取 XVideos 2 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/XVideos-2.js"
-    },
-    {
       "id": "ti.xiaen8.cf-decryption",
       "title": "cf解密项目(51吃瓜➕每日大赛)",
       "description": "获取 cf解密项目 数据",
@@ -151,7 +131,17 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/cf-decryption.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/cf%E8%A7%A3%E5%AF%86%E9%A1%B9%E7%9B%AE%2851%E5%90%83%E7%93%9C%E2%9E%95%E6%AF%8F%E6%97%A5%E5%A4%A7%E8%B5%9B%29.js"
+    },
+    {
+      "id": "ti.xiaen8.code",
+      "title": "code",
+      "description": "获取 code 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/code.js"
     },
     {
       "id": "ti.xiaen8.fyptt",
@@ -244,16 +234,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/pornhub.js"
     },
     {
-      "id": "ti.xiaen8.pornhub-2",
-      "title": "pornhub 2",
-      "description": "获取 pornhub 2 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/pornhub-2.js"
-    },
-    {
       "id": "ti.xiaen8.pubjav",
       "title": "pubjav",
       "description": "获取 pubjav 数据",
@@ -292,26 +272,6 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xhamster.js"
-    },
-    {
-      "id": "ti.xiaen8.xhamster-2",
-      "title": "xhamster 2",
-      "description": "获取 xhamster 2 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xhamster-2.js"
-    },
-    {
-      "id": "ti.xiaen8.xhamster-3",
-      "title": "xhamster 3",
-      "description": "获取 xhamster 3 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xhamster-3.js"
     },
     {
       "id": "ti.xiaen8.spankbang",
@@ -384,7 +344,7 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Heiliao.js"
     },
     {
-      "id": "ti.xiaen8.xhamster-caps",
+      "id": "ti.xiaen8.xhamster-main",
       "title": "xHamster",
       "description": "获取 xHamster 数据",
       "requiredVersion": "0.0.1",
