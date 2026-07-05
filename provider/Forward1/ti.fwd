@@ -364,16 +364,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/chigua.js"
     },
     {
-      "id": "ti.xiaen8.index",
-      "title": "index",
-      "description": "获取 index 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/index.js"
-    },
-    {
       "id": "ti.xiaen8.onlyfans18",
       "title": "onlyfans18",
       "description": "获取 onlyfans18 数据",
