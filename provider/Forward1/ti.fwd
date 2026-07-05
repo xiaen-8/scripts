@@ -352,6 +352,26 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xHamster.js"
+    },
+    {
+      "id": "ti.xiaen8.beeg-2",
+      "title": "beeg 2",
+      "description": "获取 beeg 2 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/beeg%202.js"
+    },
+    {
+      "id": "ti.xiaen8.xvideos-2",
+      "title": "XVideos 2",
+      "description": "获取 XVideos 2 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/XVideos%202.js"
     }
   ]
 }
