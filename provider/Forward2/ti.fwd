@@ -1,5 +1,5 @@
 {
-  "title": "Shane Widgets",
+  "title": "Shane 主用",
   "description": "Made by Love",
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
@@ -164,6 +164,15 @@
       "version": "1.0.0",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E7%94%B5%E5%BD%B1%E5%A4%A9%E5%A0%82(m3u8).js"
+    },
+    {
+      "id": "ti.xiaen8.shenmayun",
+      "title": "神马云",
+      "description": "获取 神马云 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E7%A5%9E%E9%A9%AC%E4%BA%91.js"
     }
   ]
 }
