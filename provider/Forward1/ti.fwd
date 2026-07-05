@@ -14,6 +14,16 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/beeg.js"
     },
     {
+      "id": "ti.xiaen8.beeg-2",
+      "title": "beeg 2",
+      "description": "获取 beeg 2 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/beeg-2.js"
+    },
+    {
       "id": "ti.xiaen8.123av-2",
       "title": "123av 2",
       "description": "获取 123av 2 数据",
@@ -142,16 +152,6 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/cf-decryption.js"
-    },
-    {
-      "id": "ti.xiaen8.code",
-      "title": "code",
-      "description": "获取 code 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/code.js"
     },
     {
       "id": "ti.xiaen8.fyptt",
