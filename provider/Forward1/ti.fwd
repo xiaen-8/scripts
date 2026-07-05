@@ -284,16 +284,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/tlsm.js"
     },
     {
-      "id": "ti.xiaen8.xhamster",
-      "title": "xhamster",
-      "description": "获取 xhamster 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xhamster.js"
-    },
-    {
       "id": "ti.xiaen8.xhamster-2",
       "title": "xhamster 2",
       "description": "获取 xhamster 2 数据",
@@ -312,6 +302,86 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xhamster-3.js"
+    },
+    {
+      "id": "ti.xiaen8.spankbang",
+      "title": "SpankBang",
+      "description": "获取 SpankBang 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/SpankBang.js"
+    },
+    {
+      "id": "ti.xiaen8.bagua",
+      "title": "bagua",
+      "description": "获取 bagua 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/bagua.js"
+    },
+    {
+      "id": "ti.xiaen8.kanavtao",
+      "title": "kanavTao",
+      "description": "获取 kanavTao 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/kanavTao.js"
+    },
+    {
+      "id": "ti.xiaen8.hanime1-all",
+      "title": "Hanime1-全能检索",
+      "description": "获取 Hanime1-全能检索 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Hanime1-%E5%85%A8%E8%83%BD%E6%A3%80%E7%B4%A2.js"
+    },
+    {
+      "id": "ti.xiaen8.hanime1-manual",
+      "title": "Hanime1-手动翻页",
+      "description": "获取 Hanime1-手动翻页 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Hanime1-%E6%89%8B%E5%8A%A8%E7%BF%BB%E9%A1%B5.js"
+    },
+    {
+      "id": "ti.xiaen8.hanime1-daily",
+      "title": "Hanime1-日常精选",
+      "description": "获取 Hanime1-日常精选 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Hanime1-%E6%97%A5%E5%B8%B8%E7%B2%BE%E9%80%89.js"
+    },
+    {
+      "id": "ti.xiaen8.heiliao",
+      "title": "Heiliao",
+      "description": "获取 Heiliao 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Heiliao.js"
+    },
+    {
+      "id": "ti.xiaen8.xhamster-main",
+      "title": "xHamster",
+      "description": "获取 xHamster 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xHamster.js"
     }
   ]
 }
