@@ -284,6 +284,16 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/tlsm.js"
     },
     {
+      "id": "ti.xiaen8.xhamster",
+      "title": "xhamster",
+      "description": "获取 xhamster 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xhamster.js"
+    },
+    {
       "id": "ti.xiaen8.xhamster-2",
       "title": "xhamster 2",
       "description": "获取 xhamster 2 数据",
@@ -374,7 +384,7 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Heiliao.js"
     },
     {
-      "id": "ti.xiaen8.xhamster-main",
+      "id": "ti.xiaen8.xhamster-caps",
       "title": "xHamster",
       "description": "获取 xHamster 数据",
       "requiredVersion": "0.0.1",
