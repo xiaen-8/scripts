@@ -104,6 +104,46 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV%203.2.js"
     },
     {
+      "id": "ti.xiaen8.missav-3.3",
+      "title": "MissAV 3.3",
+      "description": "获取 MissAV 3.3 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV%203.3.js"
+    },
+    {
+      "id": "ti.xiaen8.missav-3.5",
+      "title": "MissAV 3.5",
+      "description": "获取 MissAV 3.5 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV%203.5.js"
+    },
+    {
+      "id": "ti.xiaen8.missav-3.6",
+      "title": "MissAV 3.6",
+      "description": "获取 MissAV 3.6 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV%203.6.js"
+    },
+    {
+      "id": "ti.xiaen8.missav-3.7",
+      "title": "MissAV 3.7",
+      "description": "获取 MissAV 3.7 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV%203.7.js"
+    },
+    {
       "id": "ti.xiaen8.missav",
       "title": "MissAV",
       "description": "获取 MissAV 数据",
@@ -154,6 +194,16 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hanime1.js"
     },
     {
+      "id": "ti.xiaen8.hanime1-base",
+      "title": "Hanime1",
+      "description": "获取 Hanime1 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Hanime1.js"
+    },
+    {
       "id": "ti.xiaen8.jable",
       "title": "jable",
       "description": "获取 jable 数据",
@@ -192,6 +242,16 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/missav-stream.js"
+    },
+    {
+      "id": "ti.xiaen8.njav",
+      "title": "Njav",
+      "description": "获取 Njav 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Njav.js"
     },
     {
       "id": "ti.xiaen8.papapa",
