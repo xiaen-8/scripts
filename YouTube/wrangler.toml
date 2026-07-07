@@ -1,0 +1,3 @@
+name = "youtube-dash"
+main = "index.js"
+compatibility_date = "2026-07-07"
