@@ -5,7 +5,6 @@ export default {
     const repo = "scripts";
     const branch = "master";
 
-    // 自动获取请求的文件路径（例如 /provider/Forward1/ti.fwd）
     const path = url.pathname.replace(/^\//, "");
     
     if (!path) {
@@ -16,7 +15,6 @@ export default {
       "User-Agent": "Cloudflare-Pages-Worker"
     };
     
-    // 带上你的私人令牌去敲私密仓库的大门
     if (env.GH_TOKEN) {
       headers["Authorization"] = `token ${env.GH_TOKEN}`;
     }
@@ -30,14 +28,16 @@ export default {
       }
       
       const data = await response.json();
-      
-      // 解密私密代码内容并吐给新视界 App
       const content = atob(data.content.replace(/\n/g, ''));
       
+      // 强化响应头：强制允许跨域，并声明为纯文本，防止 App 容器拦截
       return new Response(content, {
         headers: {
           "Content-Type": "text/plain; charset=utf-8",
-          "Access-Control-Allow-Origin": "*"
+          "Access-Control-Allow-Origin": "*",
+          "Access-Control-Allow-Methods": "GET, HEAD, POST, OPTIONS",
+          "Access-Control-Allow-Headers": "*",
+          "Cache-Control": "no-cache"
         }
       });
     } catch (err) {
