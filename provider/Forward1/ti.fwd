@@ -1,5 +1,5 @@
 {
-  "title": "shane🔞",
+  "title": "shane\ud83d\udd1e",
   "description": "Made by Love",
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
@@ -412,6 +412,56 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E6%AF%8F%E6%97%A5%E5%A4%A7%E8%B5%9B-2.5.6.js"
+    },
+    {
+      "id": "ti.xiaen8.missav3.8",
+      "title": "MISSAV3.8",
+      "description": "获取 MISSAV3.8 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MISSAV3.8.js"
+    },
+    {
+      "id": "ti.xiaen8.xgr",
+      "title": "XGR",
+      "description": "获取 XGR 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/XGR.js"
+    },
+    {
+      "id": "ti.xiaen8.avbang",
+      "title": "avbang",
+      "description": "获取 avbang 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/avbang.js"
+    },
+    {
+      "id": "ti.xiaen8.kbjfan",
+      "title": "kbjfan",
+      "description": "获取 kbjfan 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/kbjfan.js"
+    },
+    {
+      "id": "ti.xiaen8.yesporn",
+      "title": "yesporn",
+      "description": "获取 yesporn 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/yesporn.js"
     }
   ]
 }
