@@ -10,7 +10,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.1.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/vod.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/vod.js"
     },
     {
       "id": "ti.bemarkt.podcast",
@@ -19,7 +19,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/podcast.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/podcast.js"
     },
     {
       "id": "xiaen8.widgets.vod1080",
@@ -28,7 +28,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.2.1",
       "author": "yuwang",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/1080资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/1080资源.js"
     },
     {
       "id": "xiaen8.widgets.vod155",
@@ -37,7 +37,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/155资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/155资源.js"
     },
     {
       "id": "xiaen8.widgets.voduku",
@@ -46,7 +46,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/U酷资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/U酷资源.js"
     },
     {
       "id": "xiaen8.widgets.vodikun",
@@ -55,7 +55,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/ikun资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/ikun资源.js"
     },
     {
       "id": "xiaen8.widgets.wujinapi",
@@ -64,7 +64,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/wujinapi无尽.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/wujinapi无尽.js"
     },
     {
       "id": "xiaen8.widgets.vodlebo",
@@ -73,7 +73,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/乐播资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/乐播资源.js"
     },
     {
       "id": "xiaen8.widgets.vodwolongdb",
@@ -82,7 +82,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/卧龙点播.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/卧龙点播.js"
     },
     {
       "id": "xiaen8.widgets.vodwolong",
@@ -91,7 +91,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/卧龙资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/卧龙资源.js"
     },
     {
       "id": "xiaen8.widgets.vodxiaoji",
@@ -100,7 +100,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/小鸡资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/小鸡资源.js"
     },
     {
       "id": "xiaen8.widgets.vodysgc",
@@ -109,7 +109,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/影视工厂.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/影视工厂.js"
     },
     {
       "id": "xiaen8.widgets.vodxinlangdb",
@@ -118,7 +118,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/新浪点播.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/新浪点播.js"
     },
     {
       "id": "xiaen8.widgets.vodxinlanga",
@@ -127,7 +127,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/新浪资源阿.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/新浪资源阿.js"
     },
     {
       "id": "xiaen8.widgets.vodwujin",
@@ -136,7 +136,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/无尽资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/无尽资源.js"
     },
     {
       "id": "xiaen8.widgets.vodwangwangdj",
@@ -145,7 +145,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/旺旺短剧.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/旺旺短剧.js"
     },
     {
       "id": "xiaen8.widgets.vodwangwang",
@@ -154,7 +154,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/旺旺资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/旺旺资源.js"
     },
     {
       "id": "xiaen8.widgets.vodbaofeng",
@@ -163,7 +163,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/暴风资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/暴风资源.js"
     },
     {
       "id": "xiaen8.widgets.vodzuidadb",
@@ -172,7 +172,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/最大点播.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/最大点播.js"
     },
     {
       "id": "xiaen8.widgets.vodzuida",
@@ -181,7 +181,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/最大资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/最大资源.js"
     },
     {
       "id": "xiaen8.widgets.vodxingba",
@@ -190,7 +190,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/杏吧资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/杏吧资源.js"
     },
     {
       "id": "xiaen8.widgets.vodjisu",
@@ -199,7 +199,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/极速资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/极速资源.js"
     },
     {
       "id": "xiaen8.widgets.vodyutu",
@@ -208,7 +208,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/玉兔资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/玉兔资源.js"
     },
     {
       "id": "xiaen8.widgets.vodfanhao",
@@ -217,7 +217,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/番号资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/番号资源.js"
     },
     {
       "id": "xiaen8.widgets.vodbaiwan",
@@ -226,7 +226,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/百万资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/百万资源.js"
     },
     {
       "id": "xiaen8.widgets.vodshenmayun",
@@ -235,7 +235,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/神马云.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/神马云.js"
     },
     {
       "id": "xiaen8.widgets.vodjingpin",
@@ -244,7 +244,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/精品资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/精品资源.js"
     },
     {
       "id": "xiaen8.widgets.vodhongniu",
@@ -253,7 +253,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/红牛资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/红牛资源.js"
     },
     {
       "id": "xiaen8.widgets.vodxibaocj",
@@ -262,7 +262,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/细胞采集黄色.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/细胞采集黄色.js"
     },
     {
       "id": "xiaen8.widgets.vodlaolubi",
@@ -271,7 +271,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/老色逼资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/老色逼资源.js"
     },
     {
       "id": "xiaen8.widgets.vodmaotai",
@@ -280,7 +280,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/茅台资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/茅台资源.js"
     },
     {
       "id": "xiaen8.widgets.vodhuya",
@@ -289,7 +289,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/虎牙资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/虎牙资源.js"
     },
     {
       "id": "xiaen8.widgets.voddouban",
@@ -298,7 +298,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/豆瓣资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/豆瓣资源.js"
     },
     {
       "id": "xiaen8.widgets.vodlanjiao",
@@ -307,7 +307,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/辣椒资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/辣椒资源.js"
     },
     {
       "id": "xiaen8.widgets.vodsubo",
@@ -316,7 +316,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/速博资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/速博资源.js"
     },
     {
       "id": "xiaen8.widgets.vodliangzi",
@@ -325,7 +325,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/量子资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/量子资源.js"
     },
     {
       "id": "xiaen8.widgets.vodjinyingdb",
@@ -334,7 +334,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/金鹰点播.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/金鹰点播.js"
     },
     {
       "id": "xiaen8.widgets.vodjinying",
@@ -343,7 +343,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/金鹰资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/金鹰资源.js"
     },
     {
       "id": "xiaen8.widgets.vodjinyingcj",
@@ -352,7 +352,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/金鹰资源采集网.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/金鹰资源采集网.js"
     },
     {
       "id": "xiaen8.widgets.vodpiaoling",
@@ -361,7 +361,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/飘零资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/飘零资源.js"
     },
     {
       "id": "xiaen8.widgets.voddashu",
@@ -370,7 +370,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/鲨鱼资源.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/鲨鱼资源.js"
     },
     {
       "id": "xiaen8.widgets.vodhuangse",
@@ -379,7 +379,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/黄色资源啊啊.js"
+      "url": "https://forward-2ha.pages.dev/provider/Forward/widgets/黄色资源啊啊.js"
     }
   ]
 }
