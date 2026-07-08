@@ -1,6 +1,21 @@
-// @name 荐片APP
-// @description 荐片视频源 - 被动触发，自动匹配影视资源
-// @version 1.4.2
+WidgetMetadata = {
+  id: "jianpian.resource",
+  title: "荐片影院",
+  version: "1.4.2",
+  requiredVersion: "0.0.1",
+  description: "荐片视频源",
+  author: "MoYan",
+  site: "https://h5.jianpianips1.com",
+  modules: [
+    {
+      id: "loadResource",
+      title: "加载荐片资源",
+      functionName: "loadResource",
+      type: "stream",
+      params: []
+    }
+  ]
+};
 
 const DEFAULT_API_HOST = "https://h5.jianpianips1.com";
 const BACKUP_API_HOST = "https://h5.jianpianips2.com";
@@ -11,7 +26,7 @@ const REQUEST_HEADERS = {
   'Accept-Language': 'zh-CN,zh;q=0.9'
 };
 
-const REQUEST_TIMEOUT = 10000;
+const REQUEST_TIMEOUT = 8000;
 const MIN_MATCH_SCORE = 60;  // 可配置的最低匹配分数
 
 // ==================== 工具函数 ====================
@@ -169,7 +184,11 @@ function calculateMatchScore(searchName, itemName) {
   const cleanItem = cleanTitle(itemName);
   
   if (cleanItem === cleanSearch) return 100;
-  if (cleanItem.includes(cleanSearch)) return 70;
+  // 包含匹配：如果结果名远长于搜索词（>2倍），降权处理
+  if (cleanItem.includes(cleanSearch)) {
+    var ratio = cleanSearch.length / cleanItem.length;
+    return ratio < 0.5 ? 40 + Math.round(ratio * 60) : 70;
+  }
   if (cleanSearch.includes(cleanItem)) return 50;
   
   // 逐字符匹配
@@ -180,14 +199,13 @@ function calculateMatchScore(searchName, itemName) {
   return (matchCount / cleanSearch.length) * 30;
 }
 
-function extractPlayInfo(detail, vod_name, targetEpNum, vod_id, type) {
+function extractPlayInfo(detail, vod_name, targetEpNum, type) {
   const playResources = [];
   const sourceListSource = detail?.source_list_source;
   
   if (!Array.isArray(sourceListSource)) return [];
   
   let resourceIndex = 0;
-  const effectiveType = (type === 'tv' || type === 'movie') ? type : 'tv';
   
   for (const source of sourceListSource) {
     const sourceName = source.name || '未知线路';
@@ -250,12 +268,9 @@ function extractPlayInfo(detail, vod_name, targetEpNum, vod_id, type) {
       }
       
       resourceIndex++;
-      const uniqueId = `${vod_id}_${sourceName}_${episodeNum || resourceIndex}_${Date.now()}_${resourceIndex}`;
       
       playResources.push({
-        id: uniqueId,
         name: sourceName,
-        type: effectiveType,
         description: description,
         url: url
       });
@@ -280,23 +295,65 @@ async function loadResource(params) {
     return [];
   }
   
-  const searchKeyword = extractBaseName(seriesName);
+  // 如果有 tmdbId，获取年份用于精准匹配
+  var searchYear = "";
+  if (params?.tmdbId) {
+    try {
+      var mt = params.type === "tv" ? "tv" : "movie";
+      var tm = await Widget.tmdb.get(mt + "/" + params.tmdbId, { params: { language: "zh-CN" } });
+      var dateStr = tm.release_date || tm.first_air_date || "";
+      searchYear = dateStr ? dateStr.substring(0, 4) : "";
+    } catch (e) { /* ignore */ }
+  }
+  
+  const searchKeyword = extractBaseName(seriesName) + (searchYear ? " " + searchYear : "");
   logInfo(`搜索关键词: ${searchKeyword}`);
   
-  // 搜索
-  const searchResult = await searchVod(searchKeyword, 1);
+  // 搜索（带年份）
+  let searchResult = await searchVod(searchKeyword, 1);
+  
+  // 如果带年份搜索无结果或匹配不足，fallback 到不带年份
+  var needFallback = false;
+  var fbScore = 0;
+  if (searchYear) {
+    if (!searchResult.list?.length) {
+      needFallback = true;
+    } else {
+      // 试匹配，如果分数不够也 fallback
+      var fbSearch = cleanTitle(searchKeyword);
+      for (var fb of searchResult.list) {
+        var s = calculateMatchScore(fbSearch, fb.vod_name);
+        var sy = fbSearch.match(/(\d{4})/);
+        var iy = cleanTitle(fb.vod_name).match(/(\d{4})/);
+        if (sy && iy && sy[1] !== iy[1]) s *= 0.3;
+        if (s > fbScore) fbScore = s;
+      }
+      if (fbScore < MIN_MATCH_SCORE) needFallback = true;
+    }
+  }
+  if (needFallback) {
+    logInfo(`带年份搜索匹配不足(最高分=${fbScore})，回退到不带年份`);
+    var fallbackKeyword = extractBaseName(seriesName);
+    searchResult = await searchVod(fallbackKeyword, 1);
+  }
   if (!searchResult.list?.length) {
     logInfo(`未找到相关视频: ${searchKeyword}`);
     return [];
   }
   
-  // 匹配最佳结果
-  const cleanSearchName = cleanTitle(searchKeyword);
+  // 匹配最佳结果（fallback 后重新计算搜索词）
+  const cleanSearchName = cleanTitle(needFallback ? extractBaseName(seriesName) : searchKeyword);
   let matchedItem = null;
   let matchScore = 0;
   
   for (const item of searchResult.list) {
-    const score = calculateMatchScore(cleanSearchName, item.vod_name);
+    var score = calculateMatchScore(cleanSearchName, item.vod_name);
+    // 年份惩罚：搜索词和结果年份不一致则降权
+    var searchYearIn = cleanSearchName.match(/(\d{4})/);
+    var itemYearIn = cleanTitle(item.vod_name).match(/(\d{4})/);
+    if (searchYearIn && itemYearIn && searchYearIn[1] !== itemYearIn[1]) {
+      score *= 0.3;
+    }
     logInfo(`候选: ${item.vod_name} (${item.vod_id}) 得分: ${score}`);
     if (score > matchScore) {
       matchScore = score;
@@ -306,6 +363,12 @@ async function loadResource(params) {
   
   if (!matchedItem || matchScore < MIN_MATCH_SCORE) {
     logInfo(`未找到足够匹配的资源 (最高分=${matchScore}, 需要≥${MIN_MATCH_SCORE})`);
+    return [];
+  }
+  
+  // 未上映电影检查：如果TMDB是未来年份且不得不fallback，拒绝匹配（同名不同年）
+  if (searchYear && parseInt(searchYear) >= 2026 && needFallback) {
+    logInfo(`未上映电影(${searchYear})靠fallback匹配到无法确认年份的资源，拒绝`);
     return [];
   }
   
@@ -324,7 +387,7 @@ async function loadResource(params) {
   
   // 提取播放资源
   const targetEpNum = (type === 'tv' && episode) ? episode : null;
-  let playResources = extractPlayInfo(detail, realTitle, targetEpNum, matchedItem.vod_id, type);
+  let playResources = extractPlayInfo(detail, realTitle, targetEpNum, type);
   
   logInfo(`提取到 ${playResources.length} 个播放资源`);
   
@@ -334,13 +397,7 @@ async function loadResource(params) {
   for (const r of playResources) {
     if (!urlSet.has(r.url)) {
       urlSet.add(r.url);
-      uniqueResources.push({
-        id: r.id,
-        name: r.name,
-        type: r.type,
-        description: r.description,
-        url: r.url
-      });
+      uniqueResources.push(r);
     }
   }
   
@@ -351,25 +408,3 @@ async function loadResource(params) {
   
   return uniqueResources;
 }
-
-// ==================== Widget 元数据 ====================
-
-WidgetMetadata = {
-  id: "JianPian",
-  title: "荐片影院",
-  icon: "",
-  version: "1.4.2",
-  requiredVersion: "0.0.1",
-  description: "荐片视频源",
-  author: "MoYan",
-  globalParams: [],
-  modules: [
-    {
-      id: "loadResource",
-      title: "加载荐片资源",
-      functionName: "loadResource",
-      type: "stream",
-      params: []
-    }
-  ]
-};
