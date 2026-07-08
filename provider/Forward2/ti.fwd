@@ -130,24 +130,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E8%81%9A%E5%90%88%E5%AE%9E%E6%97%B6%E6%A6%9C%E5%8D%95.js"
     },
     {
-      "id": "ti.xiaen8.jianpian-yingyuan",
-      "title": "荐片:影院",
-      "description": "获取 荐片:影院 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js"
-    },
-    {
-      "id": "ti.xiaen8.jinpaiyingyuan",
-      "title": "金牌影院",
-      "description": "获取 金牌影院 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
-    },
-    {
       "id": "ti.xiaen8.xingchenyingyuan",
       "title": "星辰影院",
       "description": "获取 星辰影院 数据",
@@ -157,7 +139,7 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E6%98%9F%E8%BE%B0%E5%BD%B1%E9%99%A2.js"
     },
     {
-      "id": "ti.xiaen8.dianyingtiantang-m3u8",
+      "id": "ti.xiaen8.dianyingtiantant-m3u8",
       "title": "电影天堂(m3u8)",
       "description": "获取 电影天堂(m3u8) 数据",
       "requiredVersion": "0.0.1",
@@ -173,6 +155,69 @@
       "version": "1.0.0",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E7%A5%9E%E9%A9%AC%E4%BA%91.js"
+    },
+    {
+      "id": "ti.xiaen8.douyu",
+      "title": "douyu",
+      "description": "获取 douyu 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/douyu.js"
+    },
+    {
+      "id": "ti.xiaen8.wwgz",
+      "title": "wwgz",
+      "description": "获取 wwgz 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/wwgz.js"
+    },
+    {
+      "id": "ti.xiaen8.xgshort",
+      "title": "xgshort",
+      "description": "获取 xgshort 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/xgshort.js"
+    },
+    {
+      "id": "ti.xiaen8.jianpian-yingyuan",
+      "title": "荐片:影院",
+      "description": "获取 荐片:影院 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "id": "ti.xiaen8.douban-2",
+      "title": "豆瓣 2",
+      "description": "获取 豆瓣 2 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E8%B1%86%E7%93%A3%202.js"
+    },
+    {
+      "id": "ti.xiaen8.douban",
+      "title": "豆瓣",
+      "description": "获取 豆瓣 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E8%B1%86%E7%93%A3.js"
+    },
+    {
+      "id": "ti.xiaen8.jinpaiyingyuan",
+      "title": "金牌影院",
+      "description": "获取 金牌影院 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
     }
   ]
 }
