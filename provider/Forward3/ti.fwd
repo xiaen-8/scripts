@@ -1,5 +1,5 @@
 {
-  "title": "夏恩网盘",
+  "title": "SHANE 网盘",
   "description": "Made by Love",
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
@@ -91,7 +91,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward3/Widgets/%E8%87%B3%E8%87%BB%5B%E7%9B%A4%5D.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward3/Widgets/%E8%87%B3%E8%87%BB%5B%E7%9B%98%5D.js"
     }
   ]
 }
