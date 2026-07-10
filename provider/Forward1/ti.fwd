@@ -522,6 +522,16 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xxxfollow.js"
+    },
+    {
+      "id": "ti.xiaen8.xnxx-1.0.6",
+      "title": "xnxx-1.0.6",
+      "description": "获取 xnxx-1.0.6 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xnxx-1.0.6.js"
     }
   ]
 }
