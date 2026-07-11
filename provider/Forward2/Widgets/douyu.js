@@ -6,8 +6,8 @@
 WidgetMetadata = {
   id: "video-douyu",
   title: "斗鱼直播",
-  version: "1.0.0",
-  requiredVersion: "0.0.1",
+  version: "1.2.0",
+  requiredVersion: "0.0.5",
   description: "斗鱼直播平台 — 分类浏览、搜索、高清直播播放，支持 Cookie 登录提升画质",
   author: "佚名",
   site: "https://www.douyu.com",
@@ -601,7 +601,7 @@ async function loadDetail(link) {
 
     var title = htmlUnescape(String(room.room_name || "斗鱼房间 " + roomId));
     var nickname = htmlUnescape(String(room.owner_name || ""));
-    var poster = imageURL(room.room_pic || room.roomSrc || "");
+    var poster = imageURL(room.rs16 || room.room_pic || room.roomSrc || "");
     var avatar = imageURL(room.owner_avatar || room.avatar || "");
     var category = htmlUnescape(String(room.cate2_name || room.game_name || room.c2name || ""));
     var isLive = Number(room.show_status || 0) === 1 && Number(room.videoLoop || 0) !== 1;
@@ -617,6 +617,33 @@ async function loadDetail(link) {
     var peoples = [];
     if (nickname) peoples.push({ id: nickname, title: nickname, role: "主播" });
 
+    // 直播中时生成预告片（原画地址）
+    var trailers = [];
+    if (isLive) {
+      try {
+        var crptext = await getEncryptJS(roomId);
+        if (crptext) {
+          var signData = getDouyuSign(crptext, roomId);
+          if (signData) {
+            var playInfo = await getPlayURL(roomId, signData, 0, "");
+            if (playInfo && (playInfo.flvUrl || playInfo.hlsUrl)) {
+              var trailerUrl = playInfo.flvUrl || playInfo.hlsUrl;
+              trailers.push({
+                coverUrl: poster || avatar || PLACEHOLDER_IMAGE,
+                url: trailerUrl,
+                headers: {
+                  "User-Agent": PC_UA,
+                  "Referer": "https://www.douyu.com/" + roomId
+                }
+              });
+            }
+          }
+        }
+      } catch (e) {
+        // 预告片生成失败不阻塞详情页
+      }
+    }
+
     return {
       id: "douyu:room:" + roomId,
       type: "url",
@@ -624,12 +651,13 @@ async function loadDetail(link) {
       coverUrl: poster || avatar || PLACEHOLDER_IMAGE,
       posterPath: poster || avatar || PLACEHOLDER_IMAGE,
       detailPoster: poster || avatar || PLACEHOLDER_IMAGE,
-      backdropPath: poster || PLACEHOLDER_IMAGE,
+      backdropPath: poster || avatar || PLACEHOLDER_IMAGE,
       link: roomId,
       description: description || (isLive ? "直播中 · " + (category || "") : "未开播"),
       genreItems: genreItems,
       peoples: peoples,
       vod_remarks: isLive ? "直播中" : "未开播",
+      trailers: trailers.length > 0 ? trailers : undefined,
       headers: imageHeaders(),
       posterHeaders: imageHeaders()
     };
