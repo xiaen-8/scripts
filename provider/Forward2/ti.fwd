@@ -238,7 +238,7 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/douyin-live.js"
     },
     {
-      "id": "ti.xiaen8.douyu-new",
+      "id": "ti.xiaen8.douyu",
       "title": "douyu",
       "description": "获取 douyu 数据",
       "requiredVersion": "0.0.1",
