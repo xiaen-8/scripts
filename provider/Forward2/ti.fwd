@@ -227,6 +227,33 @@
       "version": "1.0.0",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/pomo.js"
+    },
+    {
+      "id": "ti.xiaen8.douyin-live",
+      "title": "douyin-live",
+      "description": "获取 douyin-live 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/douyin-live.js"
+    },
+    {
+      "id": "ti.xiaen8.douyu-new",
+      "title": "douyu",
+      "description": "获取 douyu 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/douyu.js"
+    },
+    {
+      "id": "ti.xiaen8.huya",
+      "title": "huya",
+      "description": "获取 huya 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/huya.js"
     }
   ]
 }
