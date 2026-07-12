@@ -1,5 +1,5 @@
 {
-  "title": "SHANE \ud83d\udd1e",
+  "title": "SHANE Yellow",
   "description": "Made by Love",
   "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
   "widgets": [
@@ -542,6 +542,26 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xnxx-1.1.2.js"
+    },
+    {
+      "id": "ti.xiaen8.pubjav",
+      "title": "pubjav",
+      "description": "获取 pubjav 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.1",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/pubjav.js"
+    },
+    {
+      "id": "ti.xiaen8.twittershipin",
+      "title": "twitter视频",
+      "description": "获取 twitter视频 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/twitter%E8%A7%86%E9%A2%91.js"
     }
   ]
 }
