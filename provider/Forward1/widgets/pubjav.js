@@ -7,7 +7,7 @@
 WidgetMetadata = {
   id: "forward.pubjav",
   title: "PUBJAV",
-  version: "1.1.0",
+  version: "1.1.1",
   requiredVersion: "0.0.1",
   description: "PUBJAV 日本 AV 在线观看模块。\n支持分类浏览：有码 / 无码 / 素人 / 无码破解 / 无码流出。\n支持番号/标题搜索、多画质 HLS 播放、演员/分类关联跳转。\n数据源: https://pubjav.com — 每日更新，10万+ 部影片。",
   author: "EL",
@@ -464,7 +464,23 @@ async function getPlayableUrl(filmId, episodeId, pt, pk) {
 
         // 模式5: 页面中任何 .mp4 或 .m3u8 URL
         var m5 = iframeHtml.match(/https?:\/\/[^'"\s<>]+\.(?:mp4|m3u8)[^'"\s<>]*/i);
-        if (m5) return m5[0];
+        if (m5) {
+          // 检测是否是 Google Drive 托管的视频（Google Drive 在非浏览器环境无法播放）
+          var detectedUrl = m5[0];
+          try {
+            var m3u8Resp = await Widget.http.get(detectedUrl, { headers: HEADERS });
+            if (m3u8Resp && m3u8Resp.data) {
+              var m3u8Content = typeof m3u8Resp.data === "string" ? m3u8Resp.data : String(m3u8Resp.data);
+              if (m3u8Content.indexOf("googleusercontent") >= 0 || m3u8Content.indexOf("turbosplayer.com") >= 0) {
+                console.log("[PUBJAV getPlayableUrl] Google Drive 视频源，不可播，跳过");
+                return "";
+              }
+            }
+          } catch (e) {
+            // 检测失败，仍返回原 URL
+          }
+          return detectedUrl;
+        }
       }
     } catch (e) {
       console.error("[PUBJAV getPlayableUrl] iframe 提取失败:", e.message || e);
@@ -616,6 +632,7 @@ async function loadDetail(link) {
       backdropPath: thumb || "",
       videoUrl: videoUrl || "",
       customHeaders: playHeaders,
+      playerType: "app",
       genreItems: genreItems.length > 0 ? genreItems : undefined,
       peoples: peoples.length > 0 ? peoples : undefined,
       backdropPaths: backdropPaths.length > 0 ? backdropPaths : (thumb ? [thumb] : undefined),
