@@ -256,12 +256,12 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/huya.js"
     },
     {
-      "id": "ti.xiaen8.forward-ddys-v127",
-      "title": "forward_ddys_v127",
-      "description": "获取 forward_ddys_v127 数据",
+      "id": "https://ddys.app?mod=resource&v=127",
+      "title": "低调影视播放源",
+      "description": "低调影视播放源；Cookie 自动过门禁续期，无需手抓",
       "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
+      "version": "1.2.7",
+      "author": "TG@ZenMoFiShi",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/forward_ddys_v127.js"
     }
   ]
