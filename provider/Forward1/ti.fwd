@@ -572,6 +572,56 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/pimpbunny.js"
+    },
+    {
+      "id": "ti.xiaen8.123av-stream",
+      "title": "123av-stream",
+      "description": "获取 123av-stream 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/123av-stream.js"
+    },
+    {
+      "id": "ti.xiaen8.jable-stream",
+      "title": "jable-stream",
+      "description": "获取 jable-stream 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/jable-stream.js"
+    },
+    {
+      "id": "ti.xiaen8.kanav-stream",
+      "title": "kanav-stream",
+      "description": "获取 kanav-stream 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/kanav-stream.js"
+    },
+    {
+      "id": "ti.xiaen8.memojav-stream",
+      "title": "memojav-stream",
+      "description": "获取 memojav-stream 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/memojav-stream.js"
+    },
+    {
+      "id": "ti.xiaen8.missav-stream",
+      "title": "missav-stream",
+      "description": "获取 missav-stream 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/missav-stream.js"
     }
   ]
 }
