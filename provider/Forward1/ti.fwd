@@ -642,16 +642,6 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hqporner-1.8.6%20(jm).js"
-    },
-    {
-      "id": "ti.xiaen8.hqporner-jiemidaima",
-      "title": "hqporner解密代码",
-      "description": "获取 hqporner解密代码 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hqporner%E8%A7%A3%E5%AF%86%E4%BB%A3%E7%A0%81.js"
     }
   ]
 }
