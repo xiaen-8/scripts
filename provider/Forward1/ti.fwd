@@ -642,6 +642,106 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hqporner-1.8.6%20(jm).js"
+    },
+    {
+      "id": "ti.xiaen8.123av-stream-1.2.0",
+      "title": "123av-stream 1.2.0",
+      "description": "获取 123av-stream 1.2.0 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/123av-stream%201.2.0.js"
+    },
+    {
+      "id": "ti.xiaen8.51fans-video",
+      "title": "51fans视频-82C7E216-1079-4858-A4BF-A1FA31824E1E",
+      "description": "获取 51fans视频-82C7E216-1079-4858-A4BF-A1FA31824E1E 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/51fans%E8%A7%86%E9%A2%91-82C7E216-1079-4858-A4BF-A1FA31824E1E.js"
+    },
+    {
+      "id": "ti.xiaen8.91tiantang",
+      "title": "91天堂-B989F799-783B-4B72-BC7E-2FC59FBC4F0B",
+      "description": "获取 91天堂-B989F799-783B-4B72-BC7E-2FC59FBC4F0B 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/91%E5%A4%A9%E5%A0%82-B989F799-783B-4B72-BC7E-2FC59FBC4F0B.js"
+    },
+    {
+      "id": "ti.xiaen8.avdb-1.7.2",
+      "title": "AVDB 1.7.2",
+      "description": "获取 AVDB 1.7.2 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/AVDB%201.7.2.js"
+    },
+    {
+      "id": "ti.xiaen8.eporner-2.4.0-jm",
+      "title": "Eporner-2.4.0 (jm)",
+      "description": "获取 Eporner-2.4.0 (jm) 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Eporner-2.4.0%20(jm).js"
+    },
+    {
+      "id": "ti.xiaen8.lvmao",
+      "title": "Lvmao影院-1C1E95CC-A1CA-49C8-9BB0-4207F8E0CD3B",
+      "description": "获取 Lvmao影院-1C1E95CC-A1CA-49C8-9BB0-4207F8E0CD3B 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Lvmao%E5%BD%B1%E9%99%A2-1C1E95CC-A1CA-49C8-9BB0-4207F8E0CD3B.js"
+    },
+    {
+      "id": "ti.xiaen8.pektino-ranking",
+      "title": "Pektino 成人视频排行榜-437E76A8-EBFC-4C79-889C-B8D745A9272E",
+      "description": "获取 Pektino 成人视频排行榜-437E76A8-EBFC-4C79-889C-B8D745A9272E 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Pektino%20%E6%88%90%E4%BA%BA%E8%A7%86%E9%A2%91%E6%8E%92%E8%A1%8C%E6%A6%9C-437E76A8-EBFC-4C79-889C-B8D745A9272E.js"
+    },
+    {
+      "id": "ti.xiaen8.missav-stream-1.4.0",
+      "title": "missav-stream 1.4.0",
+      "description": "获取 missav-stream 1.4.0 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/missav-stream%201.4.0.js"
+    },
+    {
+      "id": "ti.xiaen8.selangwu",
+      "title": "色狼屋-31BD3F7A-2001-4CE8-9F05-BC0B0DA8663D",
+      "description": "获取 色狼屋-31BD3F7A-2001-4CE8-9F05-BC0B0DA8663D 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E8%89%B2%E7%8B%BC%E5%B1%8B-31BD3F7A-2001-4CE8-9F05-BC0B0DA8663D.js"
+    },
+    {
+      "id": "ti.xiaen8.madou",
+      "title": "麻豆视频-72711A41-FB97-42A8-AB96-276792680C94",
+      "description": "获取 麻豆视频-72711A41-FB97-42A8-AB96-276792680C94 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%BA%BB%E8%B1%86%E8%A7%86%E9%A2%91-72711A41-FB97-42A8-AB96-276792680C94.js"
     }
   ]
 }
