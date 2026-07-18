@@ -744,6 +744,26 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%BA%BB%E8%B1%86%E8%A7%86%E9%A2%91-72711A41-FB97-42A8-AB96-276792680C94.js"
     },
     {
+      "id": "ti.xiaen8.beeg",
+      "title": "beeg",
+      "description": "获取 beeg 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/beeg.js"
+    },
+    {
+      "id": "ti.xiaen8.tangxinvlog",
+      "title": "tangxinvlog",
+      "description": "获取 tangxinvlog 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/beeg.js"
+    },
+    {
       "id": "ti.xiaen8.avdb-1.8.0",
       "title": "AVDB 1.8.0",
       "description": "获取 AVDB 1.8.0 数据",
