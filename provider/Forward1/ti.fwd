@@ -354,16 +354,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xxxfollow.js"
     },
     {
-      "id": "ti.xiaen8.xnxx-1.0.6",
-      "title": "xnxx-1.0.6",
-      "description": "获取 xnxx-1.0.6 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xnxx-1.0.6.js"
-    },
-    {
       "id": "ti.xiaen8.xnxx-1.1.2",
       "title": "xnxx-1.1.2",
       "description": "获取 xnxx-1.1.2 数据",
@@ -374,7 +364,7 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xnxx-1.1.2.js"
     },
     {
-      "id": "ti.xiaen8.pubjav",
+      "id": "ti.xiaen8.pubjav-2",
       "title": "pubjav",
       "description": "获取 pubjav 数据",
       "requiredVersion": "0.0.1",
@@ -501,7 +491,7 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%BA%BB%E8%B1%86%E8%A7%86%E9%A2%91-72711A41-FB97-42A8-AB96-276792680C94.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%BA%BA%E8%B1%86%E8%A7%86%E9%A2%91-72711A41-FB97-42A8-AB96-276792680C94.js"
     },
     {
       "id": "ti.xiaen8.tangxinvlog",
