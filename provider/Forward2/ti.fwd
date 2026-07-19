@@ -31,24 +31,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/bilibili.js"
     },
     {
-      "id": "ti.xiaen8.girigirilove-2",
-      "title": "girigirilove 2",
-      "description": "获取 girigirilove 2 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/girigirilove%202.js"
-    },
-    {
-      "id": "ti.xiaen8.girigirilove-3",
-      "title": "girigirilove 3",
-      "description": "获取 girigirilove 3 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/girigirilove%203.js"
-    },
-    {
       "id": "ti.xiaen8.girigirilove",
       "title": "girigirilove",
       "description": "获取 girigirilove 数据",
@@ -254,15 +236,6 @@
       "version": "1.0.0",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/huya.js"
-    },
-    {
-      "id": "https://ddys.app?mod=resource&v=127",
-      "title": "低调影视播放源",
-      "description": "低调影视播放源；Cookie 自动过门禁续期，无需手抓",
-      "requiredVersion": "0.0.1",
-      "version": "1.2.7",
-      "author": "TG@ZenMoFiShi",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/forward_ddys_v127.js"
     },
     {
       "id": "https://ddys.app?mod=resource&v=128",
