@@ -407,15 +407,6 @@
       "version": "1.0.0",
       "author": "xiaen-8",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/VOD资源聚合-1BA3E82F-2DE2-4D5A-8C8B-3280DA957A39.js"
-    },
-    {
-      "id": "xiaen8.widgets.yinghicaiji",
-      "title": "影视:采集",
-      "description": "获取影视采集资源",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward/widgets/影视:采集.js"
     }
   ]
 }
