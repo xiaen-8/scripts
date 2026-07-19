@@ -254,6 +254,15 @@
       "version": "1.0.0",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/libvio.js"
+    },
+    {
+      "id": "ti.xiaen8.anime1",
+      "title": "anime1 (jm)",
+      "description": "获取 anime1 (jm) 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.2.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/anime1-1.2.0%20(jm).js"
     }
   ]
 }
