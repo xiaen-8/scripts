@@ -260,9 +260,18 @@
       "title": "anime1 (jm)",
       "description": "获取 anime1 (jm) 数据",
       "requiredVersion": "0.0.1",
-      "version": "1.2.0",
+      "version": "1.7.1",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/anime1-1.2.0%20(jm).js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/anime1-1.7.1%20(jm).js"
+    },
+    {
+      "id": "ti.xiaen8.didiaoyingshibofangyuan",
+      "title": "低调影视播放源",
+      "description": "获取 低调影视播放源 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E4%BD%8E%E8%B0%83%E5%BD%B1%E8%A7%86%E6%92%AD%E6%94%BE%E6%BA%90.js"
     }
   ]
 }
