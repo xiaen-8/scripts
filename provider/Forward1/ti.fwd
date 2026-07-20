@@ -494,16 +494,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%BA%BA%E8%B1%86%E8%A7%86%E9%A2%91-72711A41-FB97-42A8-AB96-276792680C94.js"
     },
     {
-      "id": "ti.xiaen8.tangxinvlog",
-      "title": "tangxinvlog",
-      "description": "获取 tangxinvlog 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/tangxinvlog.js"
-    },
-    {
       "id": "ti.xiaen8.123av-stream-1.3.0",
       "title": "123av-stream 1.3.0",
       "description": "获取 123av-stream 1.3.0 数据",
@@ -512,16 +502,6 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/123av-stream%201.3.0.js"
-    },
-    {
-      "id": "ti.xiaen8.avdb-1.8.1",
-      "title": "AVDB 1.8.1",
-      "description": "获取 AVDB 1.8.1 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/AVDB%201.8.1.js"
     },
     {
       "id": "ti.xiaen8.missav",
@@ -572,6 +552,36 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/missav-stream%201.5.0.js"
+    },
+    {
+      "id": "ti.xiaen8.avdb-1.8.2",
+      "title": "AVDB 1.8.2",
+      "description": "获取 AVDB 1.8.2 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/AVDB%201.8.2.js"
+    },
+    {
+      "id": "ti.xiaen8.missav-new",
+      "title": "MissAV",
+      "description": "获取 MissAV 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV.js"
+    },
+    {
+      "id": "ti.xiaen8.tangxinvlog-1.2.0",
+      "title": "tangxinvlog 1.2.0",
+      "description": "获取 tangxinvlog 1.2.0 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/tangxinvlog%201.2.0.js"
     }
   ]
 }
