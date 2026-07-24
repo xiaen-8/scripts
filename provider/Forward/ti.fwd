@@ -1,8 +1,7 @@
 {
   "title": "SHANE VOD",
   "description": "Made by Love",
-  "icon": ""icon": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Makabaka/IMG_3225.JPG"
-",
+  "icon": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Makabaka/IMG_3225.JPG",
   "widgets": [
     {
       "id": "ti.bemarkt.vod.maccms",
