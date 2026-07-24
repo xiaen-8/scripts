@@ -1,7 +1,7 @@
 {
   "title": "Zimu Danmu ",
   "description": "Made by Love",
-  "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
+  "icon": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/zimu/IMG_5753.JPG",
   "widgets": [
     {
       "id": "shooter_zimu",
