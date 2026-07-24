@@ -582,6 +582,36 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/tangxinvlog%201.2.0.js"
+    },
+    {
+      "id": "ti.xiaen8.123avfun",
+      "title": "123avfun",
+      "description": "获取 123avfun 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/123avfun.js"
+    },
+    {
+      "id": "ti.xiaen8.avdb-1.8.3",
+      "title": "AVDB 1.8.3",
+      "description": "获取 AVDB 1.8.3 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/AVDB%201.8.3.js"
+    },
+    {
+      "id": "ti.xiaen8.hstream",
+      "title": "hstream",
+      "description": "获取 hstream 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hstream.js"
     }
   ]
 }
