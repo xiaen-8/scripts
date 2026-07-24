@@ -554,16 +554,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/missav-stream%201.5.0.js"
     },
     {
-      "id": "ti.xiaen8.avdb-1.8.2",
-      "title": "AVDB 1.8.2",
-      "description": "获取 AVDB 1.8.2 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/AVDB%201.8.2.js"
-    },
-    {
       "id": "ti.xiaen8.missav-new",
       "title": "MissAV",
       "description": "获取 MissAV 数据",
