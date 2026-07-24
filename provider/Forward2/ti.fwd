@@ -272,6 +272,15 @@
       "version": "1.0.0",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E4%BD%8E%E8%B0%83%E5%BD%B1%E8%A7%86%E6%92%AD%E6%94%BE%E6%BA%90.js"
+    },
+    {
+      "id": "ti.xiaen8.hanjuwangyingshi",
+      "title": "韩剧网影视",
+      "description": "获取 韩剧网影视 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E9%9F%A9%E5%89%A7%E7%BD%91%E5%BD%B1%E8%A7%86.js"
     }
   ]
 }
