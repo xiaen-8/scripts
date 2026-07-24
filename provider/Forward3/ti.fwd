@@ -1,7 +1,7 @@
 {
   "title": "SHANE Netdisk",
   "description": "Made by Love",
-  "icon": "https://pan.szfx.top/down.php/d24c80591601b4e411e044dc1f5e459d.jpg",
+  "icon": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward3/IMG_5756.JPG",
   "widgets": [
     {
       "id": "xiaen.scripts.forward3.autostream115",
