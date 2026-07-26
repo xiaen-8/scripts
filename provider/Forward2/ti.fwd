@@ -31,15 +31,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/bilibili.js"
     },
     {
-      "id": "ti.xiaen8.girigirilove",
-      "title": "girigirilove",
-      "description": "获取 girigirilove 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/girigirilove.js"
-    },
-    {
       "id": "ti.xiaen8.jianpian-app",
       "title": "jianpian:app",
       "description": "获取 jianpian:app 数据",
@@ -166,15 +157,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/xgshort.js"
     },
     {
-      "id": "ti.xiaen8.jianpian-yingyuan",
-      "title": "荐片:影院",
-      "description": "获取 荐片:影院 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E8%8D%90%E7%89%87%3A%E5%BD%B1%E9%99%A2.js"
-    },
-    {
       "id": "ti.xiaen8.douban-2",
       "title": "豆瓣 2",
       "description": "获取 豆瓣 2 数据",
@@ -256,15 +238,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/libvio.js"
     },
     {
-      "id": "ti.xiaen8.anime1",
-      "title": "anime1 (jm)",
-      "description": "获取 anime1 (jm) 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.7.1",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/anime1-1.7.1%20(jm).js"
-    },
-    {
       "id": "ti.xiaen8.didiaoyingshibofangyuan",
       "title": "低调影视播放源",
       "description": "获取 低调影视播放源 数据",
@@ -281,6 +254,69 @@
       "version": "1.0.0",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E9%9F%A9%E5%89%A7%E7%BD%91%E5%BD%B1%E8%A7%86.js"
+    },
+    {
+      "id": "ti.xiaen8.catpawplay",
+      "title": "CatPawPlay 2.0",
+      "description": "获取 CatPawPlay 2.0 数据",
+      "requiredVersion": "0.0.1",
+      "version": "2.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/CatPawPlay2.0.js"
+    },
+    {
+      "id": "ti.xiaen8.anime1",
+      "title": "anime1 (jm)",
+      "description": "获取 anime1 (jm) 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.8.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/anime1-1.8.0%20(jm).js"
+    },
+    {
+      "id": "ti.xiaen8.emby-code-agg",
+      "title": "emby-code-agg(1)",
+      "description": "获取 emby-code-agg(1) 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/emby-code-agg(1).js"
+    },
+    {
+      "id": "ti.xiaen8.girigirilove",
+      "title": "girigirilove",
+      "description": "获取 girigirilove 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.4.4",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/girigirilove%201.4.4.js"
+    },
+    {
+      "id": "ti.xiaen8.aidubokuyingshi",
+      "title": "爱独播库影视",
+      "description": "获取 爱独播库影视 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E7%88%B1%E7%8B%AC%E6%92%AD%E5%BA%93%E5%BD%B1%E8%A7%86_v1.0.0.js.js"
+    },
+    {
+      "id": "ti.xiaen8.dubokuyingshi",
+      "title": "独播库影视",
+      "description": "获取 独播库影视 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E7%8B%AC%E6%92%AD%E5%BA%93%E5%BD%B1%E8%A7%86_v1.0.0.js.js"
+    },
+    {
+      "id": "ti.xiaen8.jianpianyingyuan",
+      "title": "荐片影院",
+      "description": "获取 荐片影院 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E8%8D%90%E7%89%87%E5%BD%B1%E9%99%A2.js"
     }
   ]
 }
