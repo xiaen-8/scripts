@@ -202,15 +202,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/douyin-live.js"
     },
     {
-      "id": "ti.xiaen8.douyu",
-      "title": "douyu",
-      "description": "获取 douyu 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/douyu.js"
-    },
-    {
       "id": "ti.xiaen8.huya",
       "title": "huya",
       "description": "获取 huya 数据",
@@ -317,6 +308,15 @@
       "version": "1.0.0",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E8%8D%90%E7%89%87%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "id": "ti.xiaen8.qingkongciyuan",
+      "title": "青空次元 (jm)",
+      "description": "获取 青空次元 (jm) 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.1.9",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E9%9D%92%E7%A9%BA%E6%AC%A1%E5%85%83-1.1.9%20(jm).js"
     }
   ]
 }
