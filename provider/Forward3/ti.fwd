@@ -59,12 +59,12 @@
     },
     {
       "id": "xiaen.scripts.forward3.xiaoyaalist",
-      "title": "小雅AList v3.2",
-      "description": "小雅 AList v3.2 挂载与数据获取",
+      "title": "小雅AList v3.6",
+      "description": "小雅 AList v3.6 挂载与数据获取",
       "requiredVersion": "0.0.1",
-      "version": "3.2.0",
+      "version": "3.6.0",
       "author": "xiaen-8",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward3/Widgets/%E5%B0%8F%E9%9B%85AList%20v3.2.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward3/Widgets/%E5%B0%8F%E9%9B%85Alist%20V3.6.js"
     },
     {
       "id": "xiaen.scripts.forward3.muou4kquark",
