@@ -65,6 +65,15 @@
       "version": "1.0.0",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/zimu/widgets/%E8%BF%85%E9%9B%B7%E7%9C%8B%E7%9C%8B%20%E5%AD%97%E5%B9%95.js"
+    },
+    {
+      "id": "multisubtitle_1_1_3",
+      "title": "multisubtitle 1.1.3",
+      "description": "获取 multisubtitle 1.1.3 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/refs/heads/master/provider/zimu/widgets/multisubtitle%201.1.3.js"
     }
   ]
 }
