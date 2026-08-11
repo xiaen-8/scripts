@@ -1,5 +1,5 @@
 {
-  "title": "SeSe",
+  "title": "Se Se",
   "description": "私人影视专属瑟瑟",
   "icon": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/IMG_5759.JPG",
   "widgets": [
@@ -512,6 +512,16 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hanime1-2.2.7%20(jm).js"
+    },
+    {
+      "id": "ti.xiaen8.madou",
+      "title": "madou",
+      "description": "获取 madou 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/madou.js"
     }
   ]
 }
