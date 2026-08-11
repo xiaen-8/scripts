@@ -464,14 +464,14 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E8%89%B2%E7%8B%BC%E5%B1%8B-31BD3F7A-2001-4CE8-9F05-BC0B0DA8663D.js"
     },
     {
-      "id": "ti.xiaen8.madou.72711a41",
-      "title": "麻豆视频-72711A41-FB97-42A8-AB96-276792680C94",
-      "description": "获取 麻豆视频-72711A41-FB97-42A8-AB96-276792680C94 数据",
+      "id": "ti.xiaen8.madou",
+      "title": "madou",
+      "description": "获取 madou 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%BA%BA%E8%B1%86%E8%A7%86%E9%A2%91-72711A41-FB97-42A8-AB96-276792680C94.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/madou.js"
     },
     {
       "id": "ti.xiaen8.missav",
@@ -642,16 +642,6 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hanime1-2.2.7%20(jm).js"
-    },
-    {
-      "id": "ti.xiaen8.madou",
-      "title": "madou",
-      "description": "获取 madou 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/madou.js"
     }
   ]
 }
