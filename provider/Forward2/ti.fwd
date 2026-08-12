@@ -317,6 +317,24 @@
       "version": "1.1.9",
       "author": "Ti",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E9%9D%92%E7%A9%BA%E6%AC%A1%E5%85%83-1.1.9%20(jm).js"
+    },
+    {
+      "id": "ti.xiaen8.gugureduzhishibang",
+      "title": "骨朵热度指数榜",
+      "description": "获取 骨朵热度指数榜 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E9%AA%A8%E6%9C%B5%E7%83%AD%E5%BA%A6%E6%8C%87%E6%95%B0%E6%A6%9C.js"
+    },
+    {
+      "id": "ti.xiaen8.huangdoushanju-7C797142-9A4A-4372-A399-8FD92AC9F4B4",
+      "title": "黄豆短剧",
+      "description": "获取 黄豆短剧 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward2/Widgets/%E9%BB%84%E8%B1%86%E7%9F%AD%E5%89%A7-7C797142-9A4A-4372-A399-8FD92AC9F4B4.js"
     }
   ]
 }
