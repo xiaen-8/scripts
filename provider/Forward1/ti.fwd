@@ -619,7 +619,7 @@
       "description": "获取 forward.stripchat.v5.2.1 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "Ti",
+      "author": "EL",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/forward.stripchat.v5.2.1.js"
     },
