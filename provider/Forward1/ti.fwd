@@ -521,8 +521,7 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://cdn.jsdelivr.net/gh/xiaen-8/scripts@master/provider/Forward1/widgets/XVideos.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/XVideos.js"
     }
-
   ]
 }
