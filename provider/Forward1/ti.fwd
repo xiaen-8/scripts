@@ -494,16 +494,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/bitch.js"
     },
     {
-      "id": "ti.xiaen8.stripchat.v5.2.1",
-      "title": "stripchat.v5.2.1",
-      "description": "获取 stripchat.v5.2.1 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://github.com/xiaen-8/scripts/blob/master/provider/Forward1/widgets/forward.stripchat.v5.2.1.js"
-    },
-    {
       "id": "ti.xiaen8.hanime1.2.2.7.jm",
       "title": "hanime1-2.2.7 (jm)",
       "description": "获取 hanime1-2.2.7 (jm) 数据",
