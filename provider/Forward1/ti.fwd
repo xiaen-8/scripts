@@ -494,8 +494,8 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/bitch.js"
     },
     {
-      "id": "ti.xiaen8.forward.stripchat.v5.2.1",
-      "title": "forward.stripchat.v5.2.1",
+      "id": "ti.xiaen8.stripchat.v5.2.1",
+      "title": "stripchat.v5.2.1",
       "description": "获取 stripchat.v5.2.1 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
