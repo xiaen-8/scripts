@@ -511,7 +511,7 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://github.com/xiaen-8/scripts/blob/master/provider/Forward1/widgets/forward.stripchat.v5.2.1.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/forward.stripchat.v5.2.1.js"
     },
     {
       "id": "ti.xiaen8.xvideos",
@@ -521,7 +521,7 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://github.com/xiaen-8/scripts/blob/master/provider/Forward1/widgets/XVideos.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/XVideos.js"
     }
   ]
 }
