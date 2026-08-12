@@ -409,7 +409,7 @@
       "description": "获取 51fans视频-82C7E216-1079-4858-A4BF-A1FA31824E1E 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "Ti",
+      "author": "EL",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/51fans%E8%A7%86%E9%A2%91-82C7E216-1079-4858-A4BF-A1FA31824E1E.js"
     },
