@@ -494,7 +494,7 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/beeg.js"
     },
     {
-      "id": "ti.xiaen8.missav-new",
+      "id": "ti.xiaen8.missav-new-2",
       "title": "MissAV",
       "description": "获取 MissAV 数据",
       "requiredVersion": "0.0.1",
@@ -624,14 +624,14 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/bitch.js"
     },
     {
-      "id": "ti.xiaen8.stripchat-v5-2-1",
+      "id": "ti.xiaen8.forward-stripchat-v5-2-1",
       "title": "forward.stripchat.v5.2.1",
-      "description": "获取 stripchat.v5.2.1 数据",
+      "description": "获取 forward.stripchat.v5.2.1 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/stripchat.v5.2.1.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/forward.stripchat.v5.2.1.js"
     },
     {
       "id": "ti.xiaen8.hanime1-2.2.7-jm",
