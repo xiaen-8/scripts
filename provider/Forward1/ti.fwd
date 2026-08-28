@@ -494,16 +494,6 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/beeg.js"
     },
     {
-      "id": "ti.xiaen8.missav-new",
-      "title": "MissAV",
-      "description": "获取 MissAV 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV.js"
-    },
-    {
       "id": "ti.xiaen8.tangxinvlog-1.2.0",
       "title": "tangxinvlog 1.2.0",
       "description": "获取 tangxinvlog 1.2.0 数据",
@@ -642,16 +632,6 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/AVDB%202.1.0.js"
-    },
-    {
-      "id": "ti.xiaen8.xvideos-2",
-      "title": "XVideos",
-      "description": "获取 XVideos 数据",
-      "requiredVersion": "0.0.1",
-      "version": "1.0.0",
-      "author": "Ti",
-      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/XVideos.js"
     },
     {
       "id": "ti.xiaen8.manko",
