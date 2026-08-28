@@ -1,24 +1,26 @@
 {
-  "title": "SeSe1",
+  "title": "SeSe",
   "description": "私人影视专属瑟瑟",
-  "mode": "json",
+  "icon": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/IMG_5759.JPG",
   "widgets": [
     {
-      "id": "ti.xiaen8.w123av",
+      "id": "ti.xiaen8.123av",
       "title": "123av",
       "description": "获取 123av 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/123av.js"
     },
     {
-      "id": "ti.xiaen8.w91porn",
+      "id": "ti.xiaen8.91porn",
       "title": "91Porn",
       "description": "获取 91Porn 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/91Porn.js"
     },
     {
@@ -28,6 +30,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/fyptt.js"
     },
     {
@@ -37,6 +40,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/jable.js"
     },
     {
@@ -46,6 +50,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.1.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/javday.js"
     },
     {
@@ -55,6 +60,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/javplayer.js"
     },
     {
@@ -64,24 +70,27 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/papapa.js"
     },
     {
-      "id": "ti.xiaen8.pornhub2",
+      "id": "ti.xiaen8.pornhub-2",
       "title": "pornhub 2",
       "description": "获取 pornhub 2 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/pornhub%202.js"
     },
     {
-      "id": "ti.xiaen8.pubjav1",
+      "id": "ti.xiaen8.pubjav",
       "title": "pubjav",
       "description": "获取 pubjav 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/pubjav.js"
     },
     {
@@ -91,6 +100,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/tikporn.js"
     },
     {
@@ -100,15 +110,17 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/tlsm.js"
     },
     {
-      "id": "ti.xiaen8.xhamster3",
+      "id": "ti.xiaen8.xhamster-3",
       "title": "xhamster 3",
       "description": "获取 xhamster 3 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xhamster%203.js"
     },
     {
@@ -118,6 +130,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/SpankBang.js"
     },
     {
@@ -127,6 +140,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/bagua.js"
     },
     {
@@ -136,34 +150,38 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/kanavTao.js"
     },
     {
-      "id": "ti.xiaen8.hanime1all",
+      "id": "ti.xiaen8.hanime1-all",
       "title": "Hanime1-全能检索",
       "description": "获取 Hanime1-全能检索 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Hanime1-全能检索.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Hanime1-%E5%85%A8%E8%83%BD%E6%A3%80%E7%B4%A2.js"
     },
     {
-      "id": "ti.xiaen8.hanime1manual",
+      "id": "ti.xiaen8.hanime1-manual",
       "title": "Hanime1-手动翻页",
       "description": "获取 Hanime1-手动翻页 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Hanime1-手动翻页.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Hanime1-%E6%89%8B%E5%8A%A8%E7%BF%BB%E9%A1%B5.js"
     },
     {
-      "id": "ti.xiaen8.hanime1daily",
+      "id": "ti.xiaen8.hanime1-daily",
       "title": "Hanime1-日常精选",
       "description": "获取 Hanime1-日常精选 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Hanime1-日常精选.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Hanime1-%E6%97%A5%E5%B8%B8%E7%B2%BE%E9%80%89.js"
     },
     {
       "id": "ti.xiaen8.heiliao",
@@ -172,6 +190,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Heiliao.js"
     },
     {
@@ -181,6 +200,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/chigua.js"
     },
     {
@@ -190,15 +210,17 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/onlyfans18.js"
     },
     {
-      "id": "ti.xiaen8.youtubefeed",
+      "id": "ti.xiaen8.youtube-feed",
       "title": "youtube-feed",
       "description": "获取 youtube-feed 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/youtube-feed.js"
     },
     {
@@ -208,33 +230,37 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/rou.js"
     },
     {
-      "id": "ti.xiaen8.chigua51",
+      "id": "ti.xiaen8.51chigua-3.4.2",
       "title": "51吃瓜-3.4.2",
       "description": "获取 51吃瓜-3.4.2 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/51吃瓜-3.4.2.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/51%E5%90%83%E7%93%9C-3.4.2.js"
     },
     {
-      "id": "ti.xiaen8.meiridasai",
+      "id": "ti.xiaen8.meiridasai-2.5.6",
       "title": "每日大赛-2.5.6",
       "description": "获取 每日大赛-2.5.6 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/每日大赛-2.5.6.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E6%AF%8F%E6%97%A5%E5%A4%A7%E8%B5%9B-2.5.6.js"
     },
     {
-      "id": "ti.xiaen8.missav38",
+      "id": "ti.xiaen8.missav3.8",
       "title": "MISSAV3.8",
       "description": "获取 MISSAV3.8 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MISSAV3.8.js"
     },
     {
@@ -244,6 +270,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/XGR.js"
     },
     {
@@ -253,6 +280,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/avbang.js"
     },
     {
@@ -262,6 +290,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/kbjfan.js"
     },
     {
@@ -271,15 +300,17 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/yesporn.js"
     },
     {
-      "id": "ti.xiaen8.w1porn",
+      "id": "ti.xiaen8.1porn",
       "title": "1porn",
       "description": "获取 1porn 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/1porn.js"
     },
     {
@@ -289,6 +320,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/wow.js"
     },
     {
@@ -298,24 +330,27 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xxxfollow.js"
     },
     {
-      "id": "ti.xiaen8.xnxx112",
+      "id": "ti.xiaen8.xnxx-1.1.2",
       "title": "xnxx-1.1.2",
       "description": "获取 xnxx-1.1.2 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/xnxx-1.1.2.js"
     },
     {
-      "id": "ti.xiaen8.pubjav2",
-      "title": "pubjav 2",
+      "id": "ti.xiaen8.pubjav-2",
+      "title": "pubjav",
       "description": "获取 pubjav 数据",
       "requiredVersion": "0.0.1",
       "version": "1.1.1",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/pubjav.js"
     },
     {
@@ -325,105 +360,117 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/twitter视频.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/twitter%E8%A7%86%E9%A2%91.js"
     },
     {
-      "id": "ti.xiaen8.jablestream",
+      "id": "ti.xiaen8.jable-stream",
       "title": "jable-stream",
       "description": "获取 jable-stream 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/jable-stream.js"
     },
     {
-      "id": "ti.xiaen8.memojavstream",
+      "id": "ti.xiaen8.memojav-stream",
       "title": "memojav-stream",
       "description": "获取 memojav-stream 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/memojav-stream.js"
     },
     {
-      "id": "ti.xiaen8.hqporner",
+      "id": "ti.xiaen8.hqporner-1.8.6-jm",
       "title": "hqporner-1.8.6 (jm)",
       "description": "获取 hqporner-1.8.6 (jm) 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hqporner-1.8.6%20(jm).js"
     },
     {
-      "id": "ti.xiaen8.fans51video",
-      "title": "51fans视频",
-      "description": "获取 51fans视频 数据",
+      "id": "ti.xiaen8.51fans-video",
+      "title": "51fans视频-82C7E216-1079-4858-A4BF-A1FA31824E1E",
+      "description": "获取 51fans视频-82C7E216-1079-4858-A4BF-A1FA31824E1E 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/51fans视频-82C7E216-1079-4858-A4BF-A1FA31824E1E.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/51fans%E8%A7%86%E9%A2%91-82C7E216-1079-4858-A4BF-A1FA31824E1E.js"
     },
     {
-      "id": "ti.xiaen8.tiantang91",
-      "title": "91天堂",
-      "description": "获取 91天堂 数据",
+      "id": "ti.xiaen8.91tiantang",
+      "title": "91天堂-B989F799-783B-4B72-BC7E-2FC59FBC4F0B",
+      "description": "获取 91天堂-B989F799-783B-4B72-BC7E-2FC59FBC4F0B 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/91天堂-B989F799-783B-4B72-BC7E-2FC59FBC4F0B.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/91%E5%A4%A9%E5%A0%82-B989F799-783B-4B72-BC7E-2FC59FBC4F0B.js"
     },
     {
-      "id": "ti.xiaen8.eporner",
+      "id": "ti.xiaen8.eporner-2.4.0-jm",
       "title": "Eporner-2.4.0 (jm)",
       "description": "获取 Eporner-2.4.0 (jm) 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Eporner-2.4.0%20(jm).js"
     },
     {
       "id": "ti.xiaen8.lvmao",
-      "title": "Lvmao影院",
-      "description": "获取 Lvmao影院 数据",
+      "title": "Lvmao影院-1C1E95CC-A1CA-49C8-9BB0-4207F8E0CD3B",
+      "description": "获取 Lvmao影院-1C1E95CC-A1CA-49C8-9BB0-4207F8E0CD3B 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Lvmao影院-1C1E95CC-A1CA-49C8-9BB0-4207F8E0CD3B.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Lvmao%E5%BD%B1%E9%99%A2-1C1E95CC-A1CA-49C8-9BB0-4207F8E0CD3B.js"
     },
     {
-      "id": "ti.xiaen8.pektinoranking",
-      "title": "Pektino 成人视频排行榜",
-      "description": "获取 Pektino 成人视频排行榜 数据",
+      "id": "ti.xiaen8.pektino-ranking",
+      "title": "Pektino 成人视频排行榜-437E76A8-EBFC-4C79-889C-B8D745A9272E",
+      "description": "获取 Pektino 成人视频排行榜-437E76A8-EBFC-4C79-889C-B8D745A9272E 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Pektino%20成人视频排行榜-437E76A8-EBFC-4C79-889C-B8D745A9272E.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/Pektino%20%E6%88%90%E4%BA%BA%E8%A7%86%E9%A2%91%E6%8E%92%E8%A1%8C%E6%A6%9C-437E76A8-EBFC-4C79-889C-B8D745A9272E.js"
     },
     {
       "id": "ti.xiaen8.selangwu",
-      "title": "色狼屋",
-      "description": "获取 色狼屋 数据",
+      "title": "色狼屋-31BD3F7A-2001-4CE8-9F05-BC0B0DA8663D",
+      "description": "获取 色狼屋-31BD3F7A-2001-4CE8-9F05-BC0B0DA8663D 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/色狼屋-31BD3F7A-2001-4CE8-9F05-BC0B0DA8663D.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E8%89%B2%E7%8B%BC%E5%B1%8B-31BD3F7A-2001-4CE8-9F05-BC0B0DA8663D.js"
     },
     {
-      "id": "ti.xiaen8.madouvideo",
-      "title": "麻豆视频",
-      "description": "获取 麻豆视频 数据",
+      "id": "ti.xiaen8.madou",
+      "title": "麻豆视频-72711A41-FB97-42A8-AB96-276792680C94",
+      "description": "获取 麻豆视频-72711A41-FB97-42A8-AB96-276792680C94 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/麻豆视频-72711A41-FB97-42A8-AB96-276792680C94.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%BA%BA%E8%B1%86%E8%A7%86%E9%A2%91-72711A41-FB97-42A8-AB96-276792680C94.js"
     },
     {
-      "id": "ti.xiaen8.missav1",
-      "title": "MissAV 1",
+      "id": "ti.xiaen8.missav",
+      "title": "MissAV",
       "description": "获取 MissAV 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV.js"
     },
     {
@@ -433,6 +480,7 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/XVideos.js"
     },
     {
@@ -442,24 +490,37 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/beeg.js"
     },
     {
-      "id": "ti.xiaen8.tangxinvlog",
+      "id": "ti.xiaen8.missav-new",
+      "title": "MissAV",
+      "description": "获取 MissAV 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/MissAV.js"
+    },
+    {
+      "id": "ti.xiaen8.tangxinvlog-1.2.0",
       "title": "tangxinvlog 1.2.0",
       "description": "获取 tangxinvlog 1.2.0 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/tangxinvlog%201.2.0.js"
     },
     {
-      "id": "ti.xiaen8.w123avfun",
+      "id": "ti.xiaen8.123avfun",
       "title": "123avfun",
       "description": "获取 123avfun 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/123avfun.js"
     },
     {
@@ -469,34 +530,38 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hstream.js"
     },
     {
-      "id": "ti.xiaen8.avdb196",
+      "id": "ti.xiaen8.avdb-1.9.6",
       "title": "AVDB 1.9.6",
       "description": "获取 AVDB 1.9.6 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/AVDB%201.9.6.js"
     },
     {
-      "id": "ti.xiaen8.stream123av",
+      "id": "ti.xiaen8.123av-stream-1.3.8",
       "title": "123av-stream 1.3.8",
       "description": "获取 123av-stream 1.3.8 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/123av-stream%201.3.8.js"
     },
     {
-      "id": "ti.xiaen8.avdb205",
+      "id": "ti.xiaen8.avdb-2.0.5",
       "title": "AVDB公开版2.0.5",
       "description": "获取 AVDB公开版2.0.5 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/AVDB公开版2.0.5.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/AVDB%E5%85%AC%E5%BC%80%E7%89%882.0.5.js"
     },
     {
       "id": "ti.xiaen8.pandatv",
@@ -505,43 +570,58 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/PandaTV.js"
     },
     {
-      "id": "ti.xiaen8.kanavstream",
+      "id": "ti.xiaen8.kanav-stream-1.3.5",
       "title": "kanav-stream 1.3.5",
       "description": "获取 kanav-stream 1.3.5 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/kanav-stream%201.3.5.js"
     },
     {
-      "id": "ti.xiaen8.missavstream",
+      "id": "ti.xiaen8.missav-stream-1.5.4",
       "title": "missav-stream 1.5.4",
       "description": "获取 missav-stream 1.5.4 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/missav-stream%201.5.4.js"
     },
     {
-      "id": "ti.xiaen8.pimpbunny",
+      "id": "ti.xiaen8.pimpbunny-1.2.4",
       "title": "pimpbunny 1.2.4",
       "description": "获取 pimpbunny 1.2.4 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/pimpbunny%201.2.4.js"
     },
     {
-      "id": "ti.xiaen8.avdb210",
-      "title": "AVDB 2.1.0",
-      "description": "获取 AVDB 2.1.0 数据",
+      "id": "ti.xiaen8.madou-2",
+      "title": "madou",
+      "description": "获取 madou 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/AVDB%202.1.0.js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/madou.js"
+    },
+    {
+      "id": "ti.xiaen8.hanime1-2.2.7-jm",
+      "title": "hanime1-2.2.7 (jm)",
+      "description": "获取 hanime1-2.2.7 (jm) 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hanime1-2.2.7%20(jm).js"
     },
     {
       "id": "ti.xiaen8.bitch",
@@ -550,16 +630,58 @@
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/bitch.js"
     },
     {
-      "id": "ti.xiaen8.hanime1227",
-      "title": "hanime1-2.2.7 (jm)",
-      "description": "获取 hanime1-2.2.7 (jm) 数据",
+      "id": "ti.xiaen8.avdb-2.1.0",
+      "title": "AVDB 2.1.0",
+      "description": "获取 AVDB 2.1.0 数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hanime1-2.2.7%20(jm).js"
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/AVDB%202.1.0.js"
+    },
+    {
+      "id": "ti.xiaen8.xvideos-2",
+      "title": "XVideos",
+      "description": "获取 XVideos 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/XVideos.js"
+    },
+    {
+      "id": "ti.xiaen8.manko",
+      "title": "manko",
+      "description": "获取 manko 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/manko.js"
+    },
+    {
+      "id": "ti.xiaen8.manko-stream",
+      "title": "manko-stream",
+      "description": "获取 manko-stream 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/manko-stream.js"
+    },
+    {
+      "id": "ti.xiaen8.forward-247kan-v1-4-0",
+      "title": "forward.247kan.v1.4.0",
+      "description": "获取 forward.247kan.v1.4.0 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/forward.247kan.v1.4.0.js"
     }
   ]
 }
