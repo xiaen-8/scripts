@@ -84,7 +84,7 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/pornhub%202.js"
     },
     {
-      "id": "ti.xiaen8.pubjav-1",
+      "id": "ti.xiaen8.pubjav",
       "title": "pubjav",
       "description": "获取 pubjav 数据",
       "requiredVersion": "0.0.1",
@@ -461,10 +461,10 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%BA%BA%E8%B1%86%E8%A7%86%E9%A2%91-72711A41-FB97-42A8-AB96-276792680C94.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%BA%BB%E8%B1%86%E8%A7%86%E9%A2%91-72711A41-FB97-42A8-AB96-276792680C94.js"
     },
     {
-      "id": "ti.xiaen8.missav-1",
+      "id": "ti.xiaen8.missav",
       "title": "MissAV",
       "description": "获取 MissAV 数据",
       "requiredVersion": "0.0.1",
@@ -494,7 +494,7 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/beeg.js"
     },
     {
-      "id": "ti.xiaen8.missav-2",
+      "id": "ti.xiaen8.missav-new",
       "title": "MissAV",
       "description": "获取 MissAV 数据",
       "requiredVersion": "0.0.1",
@@ -624,7 +624,7 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/bitch.js"
     },
     {
-      "id": "ti.xiaen8.forward-stripchat-v5-2-1",
+      "id": "ti.xiaen8.forward-stripchat-v5.2.1",
       "title": "forward.stripchat.v5.2.1",
       "description": "获取 forward.stripchat.v5.2.1 数据",
       "requiredVersion": "0.0.1",
@@ -644,7 +644,7 @@
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hanime1-2.2.7%20(jm).js"
     },
     {
-      "id": "ti.xiaen8.madou-script",
+      "id": "ti.xiaen8.madou-new",
       "title": "madou",
       "description": "获取 madou 数据",
       "requiredVersion": "0.0.1",
