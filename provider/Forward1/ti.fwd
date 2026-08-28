@@ -461,7 +461,7 @@
       "version": "1.0.0",
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
-      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%BA%BA%E8%B1%86%E8%A7%86%E9%A2%91-72711A41-FB97-42A8-AB96-276792680C94.js"
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/%E9%BA%BB%E8%B1%86%E8%A7%86%E9%A2%91-72711A41-FB97-42A8-AB96-276792680C94.js"
     },
     {
       "id": "ti.xiaen8.missav",
@@ -602,6 +602,56 @@
       "author": "Ti",
       "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
       "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/pimpbunny%201.2.4.js"
+    },
+    {
+      "id": "ti.xiaen8.avdb-2.1.0",
+      "title": "AVDB 2.1.0",
+      "description": "获取 AVDB 2.1.0 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/AVDB%202.1.0.js"
+    },
+    {
+      "id": "ti.xiaen8.bitch",
+      "title": "bitch",
+      "description": "获取 bitch 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/bitch.js"
+    },
+    {
+      "id": "ti.xiaen8.forward-stripchat-v5.2.1",
+      "title": "forward.stripchat.v5.2.1",
+      "description": "获取 forward.stripchat.v5.2.1 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/forward.stripchat.v5.2.1.js"
+    },
+    {
+      "id": "ti.xiaen8.hanime1-2.2.7-jm",
+      "title": "hanime1-2.2.7 (jm)",
+      "description": "获取 hanime1-2.2.7 (jm) 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/hanime1-2.2.7%20(jm).js"
+    },
+    {
+      "id": "ti.xiaen8.madou-new",
+      "title": "madou",
+      "description": "获取 madou 数据",
+      "requiredVersion": "0.0.1",
+      "version": "1.0.0",
+      "author": "Ti",
+      "website": "https://github.com/xiaen-8/scripts/tree/master/provider/Forward1/widgets",
+      "url": "https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/widgets/madou.js"
     }
   ]
 }
