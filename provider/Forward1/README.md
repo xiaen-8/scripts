@@ -1,6 +1,9 @@
 ## shane18
 导入链接
 https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/ti.fwd
+加速
+https://ghfast.top/https://raw.githubusercontent.com/xiaen-8/scripts/master/provider/Forward1/ti.fwd
+
 
 ## 免责声明
 
